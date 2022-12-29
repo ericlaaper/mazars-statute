@@ -1,0 +1,276 @@
+{
+  "sectionA": "Doel van het familiestatuut",
+  "sectionB": "Bedrijfsfamilie",
+  "sectionC": "Betrokkenheid van de bedrijfsfamilie",
+  "sectionD": "Familieleden",
+  "sectionE": "Raad van Advies of Raad van Commissarissen",
+  "sectionF": "Medewerkers",
+  "sectionG": "Overige stakeholders",
+  "sectionH": "Planning",
+  "sectionI": "Uw verwachtingen voor de komende 2 tot 3 jaar",
+  "statement1": {
+    "name": "naam1",
+    "statement": "Wat wilt u bereiken met het opstellen van een familiestatuut?",
+    "comment": false
+  },
+  "statement2": {
+    "name": "naam2",
+    "statement": "Behoud van de harmonie in de familie"
+  },
+  "statement3": {
+    "name": "naam3",
+    "statement": "Afspraken maken over de onderlinge samenwerking in het familiebedrijf",
+    "comment": false
+  },
+  "statement4": {
+    "name": "naam4",
+    "statement": "Afspraken maken over onderlinge omgang tussen familieleden op verschillende posities in het familiebedrijf",
+    "comment": false
+  },
+  "statement5": {
+    "name": "naam5",
+    "statement": "Managen van conflicten",
+    "comment": false
+  },
+  "statement6": {
+    "name": "naam6",
+    "statement": "Inrichten of professionaliseren van de bestuursstructuur",
+    "comment": false
+  },
+  "statement7": {
+    "name": "naam7",
+    "statement": "Faciliteren van overgang leiding, eigendom en zeggenschap naar de volgende generatie",
+    "comment": false
+  },
+  "statement8": {
+    "name": "naam8",
+    "statement": "(Meer) betrekken van familieleden bij het familiebedrijf",
+    "comment": false
+  },
+  "statement9": {
+    "name": "naam9",
+    "statement": "Vastleggen van verbinding tussen familiewaarden en kernwaarden in het familiebedrijf",
+    "comment": false
+  },
+  "statement10": {
+    "name": "naam10",
+    "statement": "Geef uw toelichting",
+    "comment": false
+  },
+  "statement11": {
+    "name": "naam11",
+    "statement": "Onder de bedrijfsfamilie versta ik alle afstammelingen in dalende lijn van:",
+    "comment": true,
+    "note_a": "Het begrip bedrijfsfamilie maakt een onderscheid tussen de familie in breder verband en de familieleden die betrokken zijn of gaan worden bij het familiebedrijf. Zeker bij families met meerdere staken, waarbij het familiebedrijf al minimaal één keer is overgedragen naar de volgende generatie, kan dit onderscheid belangrijk zijn. Een voorbeeld:",
+    "note_b": "Een familiebedrijf wordt overgedragen van vader aan één zoon, de andere zoon kiest een andere carrière. Als de kleinkinderen belangstelling krijgen voor toetreding in het familiebedrijf, stuiten we op de volgende vraag:",
+    "note_c": "Krijgen alleen de kinderen van de zoon die het familiebedrijf heeft overgenomen toegang tot het familiebedrijf (keuze:huidige familiaire aandeelhouders) of mogen de kinderen van de zoon die een andere carrière koos ook toetreden (keuze: vanaf de oorspronkelijke oprichter).",
+    "nrOptions": 2,
+    "answer_a": "De oorspronkelijke oprichter(s) van ons familiebedrijf.",
+    "answer_b": "De huidige familiaire aandeelhouder(s) van ons familiebedrijf."
+  },
+  "statement12": {
+    "name": "naam12",
+    "statement": "Onder de bedrijfsfamilie versta ik eveneens de levenspartners van deze afstammelingen:",
+    "comment": true,
+    "note_a": "Veel bedrijfsfamilies zien het familiebedrijf als een aangelegenheid voor alleen de bloedverwanten en niet zozeer van de levenspartners van deze bloedverwanten. Ondanks het feit dat deze levenspartners een grote invloed hebben binnen het familiesysteem. ",
+    "note_b": "Andere bedrijfsfamilies besluiten daarom om de levenspartners meer te betrekken bij het familiebedrijf. Op deze wijze zijn ze beter geïnformeerd en kunnen ze op basis daarvan ook betere afwegingen maken, is hun uitgangspunt.",
+    "note_c": "Met een duurzame relatie wordt in dit kader bedoeld dat de levenspartners al enige tijd samenwonen en gezamenlijke toekomstplannen hebben. Hieraan kan een samenlevingscontract verbonden zijn.",
+    "refer": 25,
+    "nrOptions": 3,
+    "answer_a": "Nee",
+    "answer_b": "Ja, mits sprake is van een duurzame relatie tussen de levenspartners",
+    "answer_c": "Ja, mits sprake is van een huwelijk of geregistreerd partnerschap"
+  },
+  "statement13": {
+    "name": "naam13",
+    "statement": "Onder de bedrijfsfamilie versta ik eveneens kinderen uit samengestelde gezinnen:",
+    "comment": true,
+    "note_a": "In toenemende mate is sprake van zogenaamde samengestelde gezinnen, waarbij niet altijd sprake hoeft te zijn van bloedverwantschap tussen het lid van de bedrijfsfamilie en de kinderen in het gezin.",
+    "note_b": "Een meer contractuele band tussen ouder en kind, die geen bloedverwantschap met elkaar hebben, is de erkenning van het kind door de ouder. Hierdoor ontstaan over en weer juridische rechten en plichten tussen ouder en kind.",
+    "nrOptions": 3,
+    "answer_a": "Nee",
+    "answer_b": "Ja, mits sprake is van een duurzame relatie tussen de levenspartners",
+    "answer_c": "Ja, mits sprake is van erkenning van het kind door het familielid"
+  },
+  "statement14": {
+    "name": "naam14",
+    "statement": "Welke familieleden moeten volgens u betrokken zijn bij het maken van het familiestatuut?",
+    "comment": true,
+    "note_a": "Zeker bij grotere familiebedrijven, die al meerdere keren van generatie op generatie zijn overgedragen, kan sprake zijn van een groot aantal familiaire aandeelhouders. Dat brengt het risico met zich mee dat de besluitvorming verzandt, omdat er veel meningen moeten worden meegewogen. ",
+    "note_b": "Sommige familiebedrijven kiezen er dan ook voor om het economisch eigendom te splitsen van het juridisch eigendom. Dat houdt in dat iemand wel blijft profiteren van de economische voordelen van het aandeelhouderschap, maar geen invloed via zeggenschap meer kan uitoefenen op de besluitvorming in de onderneming. Zodat door een kleinere kring aandeelhouders met zeggenschap sneller besluiten kunnen worden genomen.",
+    "note_c": "",
+    "nrOptions": 4,
+    "answer_a": "Alleen de familieleden die eigenaar zijn in het familiebedrijf én zeggenschap hebben.",
+    "answer_b": "Alleen de familieleden die eigenaar zijn in het familiebedrijf met of zonder zeggenschap",
+    "answer_c": "De familiaire eigenaren én de familieleden die werkzaam zijn in het familiebedrijf",
+    "answer_d": "Alle familieleden die betrokken willen zijn"
+  },
+  "statement15": {
+    "name": "naam15",
+    "statement": "Geef een toelichting",
+    "comment": false
+  },
+  "statement16": {
+    "name": "naam16",
+    "statement": "Is er sprake van familieleden die geen lid zijn van de bedrijfsfamilie?",
+    "comment": true,
+    "note_a": "Familieleden die niet tot de bedrijfsfamilie behoren, kunnen bijvoorbeeld levenspartners van leden van de bedrijfsfamilie zijn of familieleden in een breder verband.",
+    "note_b": "Bijvoorbeeld een neef of nicht uit een staak van de familie die niet betrokken is bij het familiebedrijf.",
+    "nrOptions": 2,
+    "answer_a": "Ja",
+    "answer_b": "Nee"
+  },
+  "statement17": {
+    "name": "naam17",
+    "statement": "Op welke wijze dienen deze familieleden betrokken te zijn in het proces?",
+    "comment": false,
+    "nrOptions": 5,
+    "answer_a": "Door betrokken te zijn bij alle familieoverleggen",
+    "answer_b": "Door bij één of meerdere familieoverleggen aanwezig te zijn",
+    "answer_c": "Door voorafgaand aan het proces of tussentijds in het proces te raadplegen",
+    "answer_d": "Door na afloop van het proces te informeren",
+    "answer_e": "Anders, namelijk:"
+  },
+  "statement18": {
+    "name": "naam18",
+    "statement": "Geef een toelichting",
+    "comment": false
+  },
+  "statement19": {
+    "name": "naam19",
+    "statement": "Op welke wijze dienen de niet-familieleden in het directieteam betrokken te zijn bij het proces?",
+    "comment": true,
+    "note_a": "Hoewel het familiestatuut in beginsel gaat over de spelregels tussen de leden van de bedrijfsfamilie, kunnen andere stakeholders hier wel betrokken bij zijn of zelfs aan bijdragen.",
+    "note_b": "Het familiestatuut kan immers ook betekenen dat er op allerlei vlakken nieuwe besluitvorming gaat plaatsvinden. Dat heeft ook gevolgen voor deze stakeholders.",
+    "nrOptions": 4,
+    "answer_a": "Door bij één of meerdere familieoverleggen aanwezig te zijn",
+    "answer_b": "Door voorafgaand aan het proces of tussentijds in het proces te raadplegen",
+    "answer_c": "Door na afloop van het proces te informeren",
+    "answer_d": "Anders, namelijk:"
+  },
+  "statement20": {
+    "name": "naam20",
+    "statement": "Geef een toelichting",
+    "comment": false
+  },
+  "statement21": {
+    "name": "naam21",
+    "statement": "Op welke wijze dient de Raad van Advies of Raad van Commissarissen betrokken te zijn in het proces?",
+    "comment": true,
+    "note_a": "Een Raad van Advies of Raad van Commissarissen kan bijdragen aan de discussies over het familiestatuut. Zij adviseren immers de familiaire aandeelhouders. ",
+    "nrOptions": 3,
+    "answer_a": "Door bij één of meerdere familieoverleggen aanwezig te zijn",
+    "answer_b": "Door voorafgaand aan het proces of tussentijds in het proces te raadplegen",
+    "answer_c": "Door na afloop van het proces te informeren"
+  },
+  "statement22": {
+    "name": "naam22",
+    "statement": "Geef een toelichting",
+    "comment": false
+  },
+  "statement23": {
+    "name": "naam23",
+    "statement": "Vindt u dat het familiebedrijf c.q. de bedrijfsfamilie eraan toe is om extern advies een meer structureel karakter te geven in de vorm van een Raad van Advies of Raad van Commissarissen?",
+    "comment": false,
+    "nrOptions": 2,
+    "answer_a": "Ja",
+    "answer_b": "Nee"
+  },
+  "statement24": {
+    "name": "naam24",
+    "statement": "Geef een toelichting",
+    "comment": false,
+    "refer": 25,
+    "note": "",
+    "type": "slider"
+  },
+  "statement25": {
+    "name": "naam25",
+    "statement": "Op welke wijze dient de Ondernemingsraad betrokken te zijn bij het proces?",
+    "comment": true,
+    "note_a": "De Ondernemingsraad is een officieel orgaan dat vanuit de medewerkers is opgericht om de directie te adviseren. Als zodanig kan de Ondernemingsraad ook bijdragen aan het overleg binnen de bedrijfsfamilie.",
+    "note_b": "Belangrijk hierbij is dat de taak van de Ondernemingsraad is om de bedrijfsbelangen te bewaken.",
+    "nrOptions": 3,
+    "answer_a": "Door voorafgaand aan het proces of tussentijds in het proces te raadplegen",
+    "answer_b": "Door na afloop van het proces te informeren",
+    "answer_c": "Anders, namelijk:"
+  },
+  "statement26": {
+    "name": "naam26",
+    "statement": "Op welke wijze dienen de medewerkers betrokken te zijn bij het proces?",
+    "comment": true,
+    "note_a": "Ook medewerkers zijn een belangrijke stakeholder in het familiebedrijf. Toekomstige successen zijn mede afhankelijk van het commitment, vertrouwen en de loyaliteit van de medewerkers richting de bedrijfsfamilie. Besluiten die de bedrijfsfamilie neemt die een negatief effect hebben op de medewerkers, kunnen leiden tot een afbreuk van de betrokkenheid van de medewerkers.",
+    "note_b": "Hoewel zij niet direct bij de familieoverleggen aan tafel hoeven te zitten, kan het in ieder geval verstandig zijn om de medewerkers op de hoogte te houden van het feit dat er binnen de bedrijfsfamilie gesproken wordt over een familiestatuut.",
+    "nrOptions": 4,
+    "answer_a": "Door voorafgaand of tijdens het proces te informeren",
+    "answer_b": "Door na afloop van het proces te informeren",
+    "answer_c": "Medewerkers worden niet betrokken",
+    "answer_d": "Anders, namelijk:"
+  },
+  "statement27": {
+    "name": "naam27",
+    "statement": "Zijn er nog andere stakeholders die belangrijk zijn voor het maken van een Familiestatuut?",
+    "comment": false,
+    "nrOptions": 2,
+    "answer_a": "Ja",
+    "answer_b": "Nee"
+  },
+  "statement28": {
+    "name": "naam28",
+    "statement": "Geef een toelichting",
+    "comment": false
+  },
+  "statement29": {
+    "name": "naam29",
+    "statement": "In welk tijdsbestek vindt u dat het familiestatuut tot stand moet komen?",
+    "comment": false,
+    "nrOptions": 5,
+    "answer_a": "Op een zo kort mogelijke termijn",
+    "answer_b": "Binnen een aantal maanden",
+    "answer_c": "Binnen een half jaar",
+    "answer_d": "Binnen een jaar",
+    "answer_e": "Anders, namelijk:"
+  },
+  "statement30": {
+    "name": "naam30",
+    "statement": "Een overleg in dit proces mag maximaal hoeveel tijd duren:",
+    "comment": false,
+    "nrOptions": 5,
+    "answer_a": "2 uur",
+    "answer_b": "Dagdeel",
+    "answer_c": "Gehele dag",
+    "answer_d": "Afhankelijk van de agenda",
+    "answer_e": "Anders, namelijk"
+  },
+  "statement31": {
+    "name": "naam31",
+    "statement": "Een overleg in dit proces vindt bij voorkeur plaats:",
+    "comment": false,
+    "nrOptions": 5,
+    "answer_a": "Op het familiebedrijf",
+    "answer_b": "Bij één van de familieleden thuis",
+    "answer_c": "Op een externe locatie",
+    "answer_d": "Online",
+    "answer_e": "Anders, namelijk"
+  },
+  "statement32": {
+    "name": "naam32",
+    "statement": "Verwacht u de komende jaren aandacht te geven aan het vergroten van de betrokkenheid van de jonge familieleden bij het familiebedrijf?",
+    "comment": true,
+    "note_a": "Onder jonge familieleden verstaan we in dit verband de leeftijdscategorie t/m 18 jaar. In de situatie dat deze jonge familieleden er niet zijn, betekent het dat sommige vraagstukken niet behandeld hoeven te worden bij het maken van het familiestatuut. Dat kan op een later moment plaatsvinden.",
+    "nrOptions": 3,
+    "answer_a": "Ja",
+    "answer_b": "Nee",
+    "answer_c": "Weet ik niet"
+  },
+  "statement33": {
+    "name": "naam33",
+    "statement": "Verwacht u dat in deze periode familieleden, bijvoorbeeld uit de volgende generatie, gaan werken in het familiebedrijf? ",
+    "comment": true,
+    "note_a": "In de situatie dat er nog geen familieleden vanuit de volgende generatie gaan toetreden, betekent het dat sommige vraagstukken niet behandeld hoeven te worden bij het maken van het familiestatuut. Dat kan op een later moment plaatsvinden.",
+    "nrOptions": 3,
+    "answer_a": "Ja",
+    "answer_b": "Nee",
+    "answer_c": "Weet ik niet"
+  }
+}

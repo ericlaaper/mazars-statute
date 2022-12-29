@@ -1,0 +1,169 @@
+{
+  "sectionA": "Zorg voor elkaar",
+  "sectionB": "Toetreden tot het familiebedrijf",
+  "sectionC": "Voorbeeldgedrag",
+  "sectionD": "Volgende generatie",
+  "sectionE": "Rol van de bedrijfsfamilie of familiebedrijf in de lokale gemeenschap",
+  "sectionF": "Maatschappelijke rol van de bedrijfsfamilie of familiebedrijf ",
+
+  "statement1": {
+    "name": "statement1",
+    "statement": "Als leden van de bedrijfsfamilie zorgen wij voor elkaar.",
+    "comment": true,
+    "note_a": "Veel bedrijfsfamilies zijn welvarende families, waarbij de familieleden zich een bepaald niveau van levensstijl en -onderhoud kunnen veroorloven vanuit de opbrengsten van het familiebedrijf.",
+    "note_b": "Dit betekent ook een zekere sociale status en reputatie die past bij het familiebedrijf. Hiervoor dient echter wel de financiële ruimte te zijn."
+  },
+  "statement2": {
+    "name": "statement2",
+    "statement": "Ieder lid van de bedrijfsfamilie kan zich een bepaald niveau van levensstijl veroorloven.",
+    "comment": true,
+    "note_a": "Als u het eens bent met deze stelling, dan is uw uitgangspunt dat de bedrijfsfamilie dient te zorgen voor de familieleden die tegenslag kennen. Een consequentie van geen ondersteuning bieden kan zijn dat een individueel familielid niet meer kan voldoen aan een bepaalde mate van levensstandaard, bijvoorbeeld door hoge kosten van medische hulp."
+  },
+  "statement3": {
+    "name": "statement3",
+    "statement": "Wij zorgen voor een financieel vangnet als één van de leden van de bedrijfsfamilie door pech of ongeluk wordt getroffen.",
+    "comment": true,
+    "note_a": "Als u het eens bent met deze stelling, dan is uw uitgangspunt dat de bedrijfsfamilie dient te zorgen voor de familieleden die tegenslag kennen. Een consequentie van geen ondersteuning bieden kan zijn dat een individueel familielid niet meer kan voldoen aan een bepaalde mate van levensstandaard, bijvoorbeeld door hoge kosten van medische hulp."
+  },
+
+  "statement4": {
+    "name": "statement4",
+    "statement": "Leden van de bedrijfsfamilie die ervoor kiezen niet in het familiebedrijf te gaan werken, kunnen (indien noodzakelijk) financiële ondersteuning krijgen voor hun studie en start van hun carrière.",
+    "comment": false
+  },
+  "statement5": {
+    "name": "statement5",
+    "statement": "Deze andere uitgangspunten vind ik ook belangrijk:",
+    "comment": false
+  },
+  "statement6": {
+    "name": "statement6",
+    "statement": "Welke van de volgende uitgangspunten vindt u het best passend.",
+    "comment": true,
+    "note_a": "Bij A: Als u het eens bent met deze stelling, dient elk lid van de bedrijfsfamilie in beginsel zelf de maatregelen te nemen waarmee ze zichzelf en hun gezin beschermen.",
+    "note_b": "Bij B: Als u het eens bent met deze stelling, dan is uw uitgangspunt dat sprake kan zijn van een bepaalde mate van financiële afhankelijkheid van het familiebedrijf. Als een individueel familielid wegvalt, kan deze financiële afhankelijkheid nog steeds bestaan voor de partner. Gevolg kan zijn dat de partner niet meer aan een bepaalde mate van levensstandaard kan voldoen.",
+    "note_c": "Bij C: Een combinatie van bovenstaande",
+    "nrOptions": 3,
+    "answer_a": "a. Ieder lid van de bedrijfsfamilie dient zelf verantwoordelijkheid te nemen om voor zichzelf en zijn/haar gezin financiële maatregelen te treffen om de impact van ziekte of overlijden te verkleinen.",
+    "answer_b": "b. De familie draagt zorg voor een financieel vangnet voor levenspartners en kinderen van leden van de bedrijfsfamilie bij echtscheiding, ziekte of overlijden.",
+    "answer_c": "c. Er dient een balans te zijn tussen individuele verantwoordelijkheid en de verantwoordelijkheid van bedrijfsfamilie om een financieel vangnet te creëren."
+  },
+  "statement7": {
+    "name": "statement7",
+    "statement": "Ik vind het belangrijk dat leden van de bedrijfsfamilie die ervoor kiezen in het familiebedrijf te gaan werken, zich bewust zijn van het langdurige commitment die zij daarmee aangaan.",
+    "comment": false
+  },
+  "statement8": {
+    "name": "statement8",
+    "statement": "Ik vind het belangrijk dat leden van de bedrijfsfamilie de vrijheid hebben om hun eigen geluk te vinden, ook buiten het familiebedrijf.",
+    "comment": false
+  },
+  "statement9": {
+    "name": "statement9",
+    "statement": "Ik vind het belangrijk dat leden van de bedrijfsfamilie die ervoor kiezen niet in het familiebedrijf te gaan werken, toch betrokken kunnen zijn bij het familiebedrijf.",
+    "comment": false
+  },
+  "statement10": {
+    "name": "statement10",
+    "statement": "Ik vind het belangrijk dat leden van de bedrijfsfamilie op elk moment kunnen stoppen met werken in het familiebedrijf als zij daar niet gelukkig zijn.",
+    "comment": false
+  },
+  "statement11": {
+    "name": "statement11",
+    "statement": "Deze andere uitgangspunten vind ik ook belangrijk:",
+    "comment": false
+  },
+  "statement12": {
+    "name": "statement12",
+    "statement": "Elk lid van de bedrijfsfamilie gedraagt zich overeenkomstig de familiewaarden.",
+    "comment": true,
+    "note_a": "Als u het eens bent met deze stelling, is uw uitgangspunt dat het gedrag van elk familielid belangrijk kan zijn voor het aanzien van de familie en het succes van het familiebedrijf. U pleit dan voor een duidelijke koppeling tussen de familiewaarden en de wijze waarop de familieleden deze uitdragen en zich hieraan houden. De familiewaarden worden geformuleerd in een aparte module."
+  },
+  "statement13": {
+    "name": "statement13",
+    "statement": "Elk lid van de bedrijfsfamilie committeert zich aan de gedragsregels van de familie.",
+    "comment": true,
+    "note_a": "Als u het eens bent met deze stelling, is uw uitgangspunt dat elk familielid zich bewust is van de familiewaarden en de gedragsregels die hieraan verbonden zijn. Uw wens is dat de familieleden zich hier expliciet aan committeren.Een belangrijk deel van deze gedragsregels komen voort uit het definitieve familiestatuut."
+  },
+  "statement14": {
+    "name": "statement14",
+    "statement": "Elk lid van de bedrijfsfamilie voelt zich trots op de bedrijfsfamilie en het familiebedrijf. ",
+    "comment": true,
+    "note_a": "Trots zijn op de familie en het familiebedrijf betekent dat men intrinsiek betrokken en gebonden voelt aan de historie, betekenis en uitstraling én dat de familieleden zich overeenkomstig gedragen."
+  },
+  "statement15": {
+    "name": "statement15",
+    "statement": "Deze andere uitgangspunten vind ik ook belangrijk:",
+    "comment": false
+  },
+  "statement16": {
+    "name": "statement16",
+    "statement": "De volgende generaties worden opgevoed in de geest van onze familiewaarden.",
+    "comment": false
+  },
+  "statement17": {
+    "name": "statement17",
+    "statement": "Het familiebedrijf is een belangrijk onderdeel van ons erfgoed.",
+    "comment": false
+  },
+  "statement18": {
+    "name": "statement18",
+    "statement": "Volgende generaties dienen bewust te worden gemaakt van de historie en cultuur van ons familiebedrijf.",
+    "comment": false
+  },
+  "statement19": {
+    "name": "statement19",
+    "statement": "De tradities in de bedrijfsfamilie en het familiebedrijf zoals de nieuwjaarsreceptie, kerstdiner, viering van jubilea dienen zoveel mogelijk in stand te worden gehouden.",
+    "comment": false
+  },
+  "statement20": {
+    "name": "statement20",
+    "statement": "Deze andere uitgangspunten vind ik ook belangrijk:",
+    "comment": false
+  },
+  "statement21": {
+    "name": "statement21",
+    "statement": "Wij spelen een vooraanstaande rol in onze lokale of regionale gemeenschap.",
+    "comment": false
+  },
+  "statement22": {
+    "name": "statement22",
+    "statement": "Wij nemen deel aan lokale of regionale netwerken.",
+    "comment": false
+  },
+  "statement23": {
+    "name": "statement23",
+    "statement": "Wij ondersteunen lokale of regionale initiatieven.",
+    "comment": false
+  },
+  "statement24": {
+    "name": "statement24",
+    "statement": "Wij stimuleren onze medewerkers om namens het familiebedrijf deel te nemen aan lokale of regionale initiatieven.",
+    "comment": false
+  },
+  "statement25": {
+    "name": "statement25",
+    "statement": "Deze andere uitgangspunten vind ik ook belangrijk:",
+    "comment": false
+  },
+  "statement26": {
+    "name": "statement26",
+    "statement": "Wij ondersteunen maatschappelijke initiatieven of goede doelen.",
+    "comment": false
+  },
+  "statement27": {
+    "name": "statement27",
+    "statement": "Wij zetten ons in voor een duurzame, groene wereld",
+    "comment": false
+  },
+  "statement28": {
+    "name": "statement28",
+    "statement": "Wij zijn bereid leden van de bedrijfsfamilie, medewerkers en/of vermogen/resources in te zetten voor een specifiek maatschappelijk initiatief of goed doel.",
+    "comment": false
+  },
+  "statement29": {
+    "name": "statement29",
+    "statement": "Deze andere uitgangspunten vind ik ook belangrijk:",
+    "comment": false
+  }
+}

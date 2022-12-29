@@ -1,0 +1,173 @@
+{
+  "sectionA": "Leiding",
+  "sectionB": "Organisatie",
+  "sectionC": "De situatie dat de algemeen directeur plotseling wegvalt",
+  "sectionD": "Eigendom en zeggenschap bij het plotseling wegvallen van de directeur-grootaandeelhouder",
+  "statement1": {
+    "name": "statement1",
+    "statement": "De (toekomstige) eindverantwoordelijkheid voor het familiebedrijf is altijd in handen van een familielid.",
+    "comment": true,
+    "note_a": "Als u het met deze stelling eens bent, dan is de algemeen directeur of bij een bestuur, de voorzitter van het bestuur, altijd een lid van de bedrijfsfamilie."
+  },
+  "statement2": {
+    "name": "statement2",
+    "statement": "De (toekomstige) operationele verantwoordelijkheid voor het familiebedrijf is altijd in handen van een familielid.",
+    "comment": true,
+    "note_a": "Als u het eens bent met deze stelling, dan is uw uitgangspunt dat de bedrijfsfamilie altijd de beste kandidaten levert om operationele leiding te geven aan het bedrijf."
+  },
+  "statement3": {
+    "name": "statement3",
+    "statement": "Directiefuncties, behoudens de functie van algemeen directeur, kunnen ingevuld worden niet-familieleden.",
+    "comment": true,
+    "note_a": "Als u het eens bent met deze stelling, dan kiest u voor een gelijke behandeling van leden van de bedrijfsfamilie en niet-familieleden bij de werving en selectie voor de posities op directie- en managementniveau."
+  },
+  "statement4": {
+    "name": "statement4",
+    "statement": "Bij werving en selectie van niet-familieleden voor directiefuncties is altijd sprake van advies en begeleiding door een extern bureau.",
+    "comment": true,
+    "note_a": "Als u het eens bent met deze stelling, dan kiest u ervoor om de werving en selectie van kandidaten door een derde partij te laten plaatsvinden. Ook als het gaat om leden van de bedrijfsfamilie."
+  },
+  "statement5": {
+    "name": "statement5",
+    "statement": "Welke andere uitgangspunten vindt u ook belangrijk?",
+    "comment": false
+  },
+  "statement6": {
+    "name": "statement6",
+    "statement": "De taken, verantwoordelijkheden en bevoegdheden van de directieleden zijn vastgelegd in een functieprofiel.",
+    "comment": true,
+    "note_a": "",
+    "note_b": "",
+    "note_c": ""
+  },
+  "statement7": {
+    "name": "statement7",
+    "statement": "De taken, verantwoordelijkheden en bevoegdheden van de voltallige directie is vastgelegd in een directiereglement.",
+    "comment": true,
+    "note_a": "Een directiereglement of directiestatuut is een schriftelijk document waarin staat beschreven hoe de directie functioneert, wat de taken van de directie zijn en op welke wijze de taken binnen de directie zijn verdeeld. Het directiereglement wordt vaak opgesteld door de directie in overleg met de algemene vergadering van aandeelhouders."
+  },
+  "statement8": {
+    "name": "statement8",
+    "statement": "De strategische koers van het familiebedrijf is vastgelegd in een strategisch of business plan.",
+    "comment": false
+  },
+  "statement9": {
+    "name": "statement9",
+    "statement": "Het strategisch of business plan is afgestemd met de bedrijfsfamilie via het familieoverleg.",
+    "comment": false
+  },
+  "statement10": {
+    "name": "statement10",
+    "statement": "Het strategisch of business plan is goedgekeurd door de familiaire aandeelhouder(s).",
+    "comment": false
+  },
+  "statement11": {
+    "name": "statement11",
+    "statement": "Vanuit het strategisch of business plan zijn Kritische Succes Factoren bepaald en vertaald naar de organisatie in de vorm van Kritische Prestatie Indicatoren (KPI's).",
+    "comment": true,
+    "note_a": "Met een kritische succesfactor (KSF) geeft men aan welke activiteiten in een organisatie essentieel zijn voor het succes van de organisatie op langere termijn. Het woord factor moet hier worden opgevat als een randvoorwaarde. Dus een bepaalde KSF hoeft op dit moment nog helemaal geen succes te zijn (maar zou het op termijn wel moeten worden).",
+    "note_b": "Een KSF heeft één of meer Kritische Prestatie Indicatoren (KPI) nodig om meetbaar te worden gemaakt. Een KPI is de vertaling van een opertionele doelstelling en geeft het management een indicatie of de organisatie in de juiste richting ontwikkelt."
+  },
+  "statement12": {
+    "name": "statement12",
+    "statement": "Deze KPI's zijn zichtbaar in de managementrapportages en worden periodiek besproken met de familiaire aandeelhouder(s) en in het familieoverleg.",
+    "comment": false
+  },
+  "statement13": {
+    "name": "statement13",
+    "statement": "Welke andere uitgangspunten vindt u ook belangrijk?",
+    "comment": false
+  },
+  "statement14": {
+    "name": "statement14",
+    "statement": "De positie van algemeen directeur dient direct door iemand anders in de organisatie te worden waargenomen.",
+    "comment": false
+  },
+  "statement15": {
+    "name": "statement15",
+    "statement": "Binnen de organisatie en de bedrijfsfamilie is bekend wie de taken van de algemeen directeur (tijdelijk) kan overnemen.",
+    "comment": false
+  },
+  "statement16": {
+    "name": "statement16",
+    "statement": "Er zijn juridische maatregelen genomen, zodat een waarnemer direct de onderneming juridisch kan vertegenwoordigen.",
+    "comment": false
+  },
+  "statement17": {
+    "name": "statement17",
+    "statement": "Voor deze waarnemer is duidelijk welke bevoegdheden hij/zij heeft en bij welke besluiten goedkeuring vanuit de aandeelhouders nodig is.",
+    "comment": false
+  },
+  "statement18": {
+    "name": "statement18",
+    "statement": "Voor de situatie dat de algemeen directeur niet meer kan terugkeren in de organisatie, dient duidelijk te zijn wie zijn/haar opvolger als algemeen directeur is.",
+    "comment": false
+  },
+  "statement19": {
+    "name": "statement19",
+    "statement": "Binnen de organisatie en de bedrijfsfamilie is voorafgaand aan deze noodsituatie duidelijk wie deze opvolger is.",
+    "comment": false
+  },
+  "statement20": {
+    "name": "statement20",
+    "statement": "Als een geschikte opvolger vanuit de bedrijfsfamilie niet aangewezen kan worden, kan een niet-familielid als algemeen directeur worden aangesteld.",
+    "comment": false
+  },
+  "statement21": {
+    "name": "statement21",
+    "statement": "Als een geschikte opvolger niet binnen de bedrijfsfamilie of organisatie aanwezig is, kan extern een algemeen directeur aangetrokken worden.",
+    "comment": false
+  },
+  "statement22": {
+    "name": "statement22",
+    "statement": "In de situatie dat sprake is van het plotseling wegvallen van de directeur-grootaandeelhouder, dient sprake te zijn van een schriftelijk calamiteiten- of noodplan. ",
+    "comment": false
+  },
+  "statement23": {
+    "name": "statement23",
+    "statement": "De wensen van de familiaire eigenaar of eigenaren over de leiding, eigendom en zeggenschap dient in deze situatie op papier te staan.",
+    "comment": false
+  },
+  "statement24": {
+    "name": "statement24",
+    "statement": "De eindverantwoordelijkheid voor het familiebedrijf dient te worden opgesplitst in operationele eindverantwoordelijkheid en bestuurlijke verantwoordelijkheid.",
+    "comment": true,
+    "note_a": "Een gebruikelijke juridische constructie is dat de plaats van de familiaire aandeelhouder in wordt genomen door het bestuur van een stichting administratiekantoor. Hierbij worden de originele aandelen ingewisseld voor certificaten van aandelen, waarbij de certificaten geen zeggenschap meer hebben. Deze zeggenschap is voorbehouden aan het bestuur van de stichting administratiekantoor. In het bestuur kunnen zowel leden van de bedrijfsfamilie als externen plaatsnemen."
+  },
+  "statement25": {
+    "name": "statement25",
+    "statement": "De bestuurlijke verantwoordelijkheid komt in handen van een aangewezen bestuur.",
+    "comment": false
+  },
+  "statement26": {
+    "name": "statement26",
+    "statement": "Het bestuur kan bestaan uit leden van de bedrijfsfamilie en niet-familieleden.",
+    "comment": false
+  },
+  "statement27": {
+    "name": "statement27",
+    "statement": "De operationele eindverantwoordelijkheid kan in handen komen van een lid van de bedrijfsfamilie of een niet-familielid.",
+    "comment": false
+  },
+  "statement28": {
+    "name": "statement28",
+    "statement": "De bevoegdheden van de operationele eindverantwoordelijkheid zijn vastgelegd in een directiereglement.",
+    "comment": false
+  },
+  "statement29": {
+    "name": "statement29",
+    "statement": "De (beoogde) splitsing van eigendom en zeggenschap dient al aanwezig te zijn voordat de noodsituatie zich voordoet.",
+    "comment": false
+  },
+  "statement30": {
+    "name": "statement30",
+    "statement": "De (beoogde) splitsing van eigendom en zeggenschap dient te zijn beschreven in het testament en levenstestament van de directeur-grootaandeelhouder.",
+    "comment": true,
+    "note_a": "In een testament of levenstestament kan de familiaire aandeelhouder bij zijn/haar overlijden een stichting administratiekantoor oprichten, waardoor zeggenschap en economisch eigendom in de onderneming gesplitst worden."
+  },
+  "statement31": {
+    "name": "statement31",
+    "statement": "Welke andere uitgangspunten vindt u ook belangrijk?",
+    "comment": false
+  }
+}

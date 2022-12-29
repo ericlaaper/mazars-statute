@@ -1,0 +1,107 @@
+{
+  "sectionA": "",
+  "sectionB": "",
+  "sectionC": "",
+  "sectionD": "",
+  "sectionE": "",
+  "sectionF": "",
+
+  "statement1": {
+    "name": "statement1",
+    "statement": "Hoe belangrijk is respect als gemeenschappelijke waarde in uw familie?",
+    "comment": false,
+    "note_a": "",
+    "note_b": ""
+  },
+  "statement2": {
+    "name": "statement2",
+    "statement": "Hoe wordt respect volgens u uitgedragen door de familieleden?",
+    "comment": false,
+    "note_a": "",
+    "note_b": ""
+  },
+  "statement3": {
+    "name": "statement3",
+    "statement": "Hoe wordt respect vertaald naar het familiebedrijf en niet-familieleden zoals medewerkers, klanten of leveranciers?",
+    "comment": false,
+    "note_a": "",
+    "note_b": ""
+  },
+  "statement4": {
+    "name": "statement4",
+    "statement": "Is de wijze waarop respect nu in gedrag terugkomt toekomstbestendig?",
+    "comment": false,
+    "note_a": "",
+    "note_b": ""
+  },
+  "statement5": {
+    "name": "statement5",
+    "statement": "Hoe belangrijk is betrokkenheid als gemeenschappelijke waarde in uw familie?",
+    "comment": false,
+    "note_a": "",
+    "note_b": ""
+  },
+  "statement6": {
+    "name": "statement6",
+    "statement": "Hoe wordt betrokkenheid volgens u uitgedragen door de familieleden?",
+    "comment": false,
+    "note_a": "",
+    "note_b": ""
+  },
+  "statement7": {
+    "name": "statement7",
+    "statement": "Hoe wordt betrokkenheid vertaald naar het familiebedrijf en niet-familieleden zoals medewerkers, klanten of leveranciers?",
+    "comment": false,
+    "note_a": "",
+    "note_b": ""
+  },
+  "statement8": {
+    "name": "statement8",
+    "statement": "Is de wijze waarop betrokkenheid nu in gedrag terugkomt toekomstbestendig?",
+    "comment": false,
+    "note_a": "",
+    "note_b": ""
+  },
+  "statement9": {
+    "name": "statement9",
+    "statement": "De familiewaarde die ik wil definiëren:",
+    "comment": false,
+    "note_a": "",
+    "note_b": ""
+  },
+  "statement10": {
+    "name": "statement10",
+    "statement": "Mijn definitie hiervan is:",
+    "comment": false,
+    "note_a": "",
+    "note_b": ""
+  },
+  "statement11": {
+    "name": "statement11",
+    "statement": "Waarom is deze familiewaarde kenmerkend voor uw familie?",
+    "comment": false,
+    "note_a": "",
+    "note_b": ""
+  },
+  "statement12": {
+    "name": "statement12",
+    "statement": "Hoe wordt deze familiewaarde volgens u uitgedragen door de familieleden?",
+    "comment": false,
+    "note_a": "",
+    "note_b": ""
+  },
+  "statement13": {
+    "name": "statement13",
+    "statement": "Hoe wordt deze familiewaarde vertaald naar niet-familieleden zoals medewerkers, klanten of leveranciers?",
+    "comment": false,
+    "note_a": "",
+    "note_b": ""
+  },
+  "statement14": {
+    "name": "statement14",
+    "statement": "Is de wijze waarop deze familiewaarde nu in het gedrag terugkomt toekomstbestendig?",
+    "comment": false,
+    "note_a": "",
+    "note_b": ""
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "sectionA": "Doelen van het familieoverleg",
+  "sectionB": "Deelnemers",
+  "sectionC": "Besluitvorming",
+  "sectionD": "Rol van het familieoverleg in het bestuur van het familiebedrijf",
+  "sectionE": "Organisatie familieoverleg",
+  "sectionF": "Familie gecontroleerd",
+  "statement1": {
+    "name": "naam1",
+    "statement": "Het familieoverleg is het platform voor de communicatie met alle leden van de bedrijfsfamilie over het familiebedrijf.",
+    "comment": false
+  },
+  "statement2": {
+    "name": "naam2",
+    "statement": "Tijdens het familieoverleg worden de leden van de bedrijfsfamilie geïnformeerd over de strategische koers van het familiebedrijf.",
+    "comment": false,
+    "refer": 2,
+    "note": "",
+    "type": "option"
+  },
+  "statement3": {
+    "name": "naam3",
+    "statement": "Bij besluitvorming over de strategische koers van het familiebedrijf wordt gestreefd naar draagvlak en consensus binnen de bedrijfsfamilie.",
+    "comment": false
+  },
+  "statement4": {
+    "name": "naam4",
+    "statement": "In het familieoverleg worden besluiten genomen over de (toekomstige) betrokkenheid van de bedrijfsfamilie bij het familiebedrijf.",
+    "comment": false
+  },
+  "statement5": {
+    "name": "naam5",
+    "statement": "Het familieoverleg draagt bij aan het onderlinge vertrouwen, commitment en loyaliteit van de leden van de bedrijfsfamilie.",
+    "comment": false
+  },
+  "statement6": {
+    "name": "naam6",
+    "statement": "Het familieoverleg draagt bij aan de onderlinge harmonie in de bedrijfsfamilie en verdere familiekring.",
+    "comment": false
+  },
+  "statement7": {
+    "name": "naam7",
+    "statement": "In het familieoverleg worden besluiten genomen over de (toekomstige) inrichting van het bestuur over het familiebedrijf en het familievermogen buiten het familiebedrijf.",
+    "comment": false
+  },
+  "statement8": {
+    "name": "naam8",
+    "statement": "Welke doelen vindt u ook belangrijk?",
+    "comment": false
+  },
+  "statement9": {
+    "name": "naam9",
+    "statement": "Wie mogen volgens u deelnemen aan het familieoverleg?",
+    "comment": false,
+    "nrOptions": 2,
+    "answer_a": "Dezelfde leden van de bedrijfsfamilie als die betrokken zijn bij het opstellen van het familiestatuut.",
+    "answer_b": "Anders, namelijk:"
+  },
+  "statement10": {
+    "name": "naam10",
+    "statement": "Vanaf welke leeftijd mogen leden van de bedrijfsfamilie deelnemen aan het familieoverleg?",
+    "comment": false,
+    "nrOptions": 4,
+    "answer_a": "18 jaar",
+    "answer_b": "21 jaar",
+    "answer_c": "23 jaar",
+    "answer_d": "Anders, namelijk"
+  },
+  "statement11": {
+    "name": "naam11",
+    "statement": "Iedere deelnemer heeft de mogelijkheid tot inbreng in het familieoverleg.",
+    "comment": false
+  },
+  "statement12": {
+    "name": "naam12",
+    "statement": "In de besluitvorming wordt gestreefd naar unanimiteit.",
+    "comment": false
+  },
+  "statement13": {
+    "name": "naam13",
+    "statement": "Als unanimiteit niet bereikt wordt, vindt besluitvorming plaats met een meerderheid van stemmen.",
+    "comment": false
+  },
+  "statement14": {
+    "name": "naam14",
+    "statement": "Ieder volwassen lid van de bedrijfsfamilie heeft een stem in de besluitvorming van het familieoverleg.",
+    "comment": false
+  },
+  "statement15": {
+    "name": "naam15",
+    "statement": "De familiaire eigenaar of eigenaren hebben een vetorecht en kunnen daarmee de besluiten van het familieoverleg naast zich neer leggen.",
+    "comment": false
+  },
+  "statement16": {
+    "name": "naam16",
+    "statement": "Welke andere uitgangspunten vindt u ook belangrijk?",
+    "comment": false
+  },
+  "statement17": {
+    "name": "naam17",
+    "statement": "(Her)formuleren van de missie, visie en strategie.",
+    "comment": false
+  },
+  "statement18": {
+    "name": "naam18",
+    "statement": "(Her)formuleren van kernwaarden, sociale en ethische waarden en normen.",
+    "comment": false
+  },
+  "statement19": {
+    "name": "naam19",
+    "statement": "Vaststellen van jaarplannen en begrotingen.",
+    "comment": false
+  },
+  "statement20": {
+    "name": "naam20",
+    "statement": "Openen of sluiten van (internationale) vestigingen.",
+    "comment": false
+  },
+  "statement21": {
+    "name": "naam21",
+    "statement": "Uitbreiden of afstoten van bedrijfsactiviteiten, waaronder samenwerkingen, overnames of verkoop van bedrijfsonderdelen.",
+    "comment": false
+  },
+  "statement22": {
+    "name": "naam22",
+    "statement": "Aan- of verkoop van bedrijfsonroerend goed.",
+    "comment": false
+  },
+  "statement23": {
+    "name": "naam23",
+    "statement": "Juridische geschillen die kunnen leiden tot (langdurige, zwaarwegende) gerechtelijke procedures",
+    "comment": false
+  },
+  "statement24": {
+    "name": "naam24",
+    "statement": "Benoemingen in de directie van het familiebedrijf.",
+    "comment": false
+  },
+  "statement25": {
+    "name": "naam25",
+    "statement": "Wijziging van inrichting van het bestuur van het familiebedrijf.",
+    "comment": false
+  },
+  "statement26": {
+    "name": "naam26",
+    "statement": "Andere onderwerpen, namelijk",
+    "comment": false
+  },
+  "statement27": {
+    "name": "naam27",
+    "statement": "De bedrijfsfamilie kiest vanuit haar midden een voorzitter.",
+    "comment": false
+  },
+  "statement28": {
+    "name": "naam28",
+    "statement": "De voorzitter zorgt voor de uitnodiging en agenda voor het familieoverleg.",
+    "comment": false
+  },
+  "statement29": {
+    "name": "naam29",
+    "statement": "De voorzitter maakt het verslag (of laat een verslag maken) van het familieoverleg en verzendt deze aan de deelnemers.",
+    "comment": false
+  },
+  "statement30": {
+    "name": "naam30",
+    "statement": "De voorzitter is de contactpersoon vanuit de bedrijfsfamilie naar het bedrijfsmanagement.",
+    "comment": false
+  },
+  "statement31": {
+    "name": "naam31",
+    "statement": "De voorzitter is bij voorkeur geen familiair aandeelhouder.",
+    "comment": false
+  },
+  "statement32": {
+    "name": "naam32",
+    "statement": "Een externe adviseur kan benoemd worden in de rol van voorzitter.",
+    "comment": false
+  },
+  "statement33": {
+    "name": "naam33",
+    "statement": "Welke andere uitgangspunten vindt u ook belangrijk?",
+    "comment": false
+  },
+  "statement34": {
+    "name": "naam34",
+    "statement": "Een goede frequentie van bij elkaar komen in het familieoverleg is:",
+    "comment": false,
+    "nrOptions": 5,
+    "answer_a": "Maandelijks",
+    "answer_b": "Tweemaandelijks",
+    "answer_c": "Per kwartaal",
+    "answer_d": "Per halfjaar",
+    "answer_e": "Anders, namelijk"
+  },
+  "statement35": {
+    "name": "naam35",
+    "statement": "Het familieoverleg mag maximaal hoeveel tijd duren:",
+    "comment": false,
+    "nrOptions": 5,
+    "answer_a": "2 uur",
+    "answer_b": "Dagdeel",
+    "answer_c": "Gehele dag",
+    "answer_d": "Afhankelijk van de agenda",
+    "answer_e": "Anders, namelijk"
+  },
+  "statement36": {
+    "name": "naam36",
+    "statement": "Het familieoverleg vindt bij voorkeur plaats:",
+    "comment": false,
+    "nrOptions": 5,
+    "answer_a": "Op het familiebedrijf",
+    "answer_b": "Bij één van de familieleden thuis",
+    "answer_c": "Op een externe locatie",
+    "answer_d": "Online",
+    "answer_e": "Anders, namelijk"
+  },
+  "statement37": {
+    "name": "naam37",
+    "statement": "De familiaire aandeelhouders behouden altijd een positie in het bestuur van de onderneming of in de Raad van Commissarissen.",
+    "comment": false
+  },
+  "statement38": {
+    "name": "naam38",
+    "statement": "De bedrijfsfamilie heeft de verantwoordelijkheid om te zorgen voor goede kandidaten voor de posities in het bestuur van de onderneming of de Raad van Commissarissen.",
+    "comment": true,
+    "note_a" : "Om de belangen goed te blijven behartigen, dienen de familiaire aandeelhouders zorg te dragen voor goede kandidaten.",
+    "note_b" : "Ook als sprake is van een overgang naar de volgende generatie."
+  },
+  "statement39": {
+    "name": "naam39",
+    "statement": "De bedrijfsfamilie organiseert zichzelf zodanig, dat zij haar invloed effectief kan uitvoeren op de onderneming.",
+    "comment": false
+  },
+  "statement40": {
+    "name": "naam40",
+    "statement": "Het familieoverleg kiest uit haar midden een vertegenwoordiging voor overleg met het bedrijfsmanagement.",
+    "comment": true,
+    "note_a" : "Voor deze oplossing wordt vaak gekozen als sprake is van een groot aantal familiaire aandeelhouders, waardoor het lastig is om periodiek bijeenkomsten met het bedrijfsmanagement te organiseren."
+  },
+  "statement41": {
+    "name": "naam41",
+    "statement": "Met betrekking tot besluitvorming heeft de familievertegenwoordiging duidelijke richtlijnen vanuit het familieoverleg.",
+    "comment": true,
+    "note_a" : "Hiermee kan voorkomen worden dat de vertegenwoorders verleid worden om snel een besluit te nemen in samenspraak met het bedrijfsmanagement, terwijl ze (mogelijk) hiervoor geen steun ontvangen van de andere familiaire aandeelhouders."
+  },
+  "statement42": {
+    "name": "naam42",
+    "statement": "De familievertegenwoordiging heeft een periodiek overleg met het bedrijfsmanagement over de strategische koers van de onderneming.",
+    "comment": false
+  },
+  "statement43": {
+    "name": "naam43",
+    "statement": "De voorzitter van deze familievertegenwoordiging is het directe aanspreekpunt voor het bedrijfsmanagement.",
+    "comment": true,
+    "note_a": "Een direct aanspreekpunt biedt zowel de familiaire aandeelhouders en het bedrijfsmanagement een snel en effectief communicatieproces, wat in tijden van crises belangrijk kan zijn.",
+    "type": "slider"
+  },
+  "statement44": {
+    "name": "naam44",
+    "statement": "Het bedrijfsmanagement heeft een verantwoordelijkheid om de voorzitter van de familievertegenwoordiging direct in te lichten over actuele gebeurtenissen die negatief van invloed kunnen zijn op de resultaten.",
+    "comment": false
+  },
+  "statement45": {
+    "name": "naam45",
+    "statement": "Welke andere uitgangspunten vindt u ook belangrijk?",
+    "comment": false
+  }
+}

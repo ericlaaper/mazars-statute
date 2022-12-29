@@ -1,0 +1,355 @@
+{
+  "sectionA": "Afspraken over onderlinge conflicten",
+  "sectionB": "Protocol voor onderlinge conflicten",
+  "sectionC": "Afspraken over conflicten met andere stakeholders",
+  "sectionD": "",
+  "sectionE": "",
+  "sectionF": "",
+  "sectionG": "",
+  "sectionH": "",
+  "sectionI": "",
+  "sectionJ": "",
+  "sectionK": "",
+  "refA": "A",
+  "refB": "B",
+  "refC": "C",
+  "refD": "D",
+  "refE": "E",
+  "refF": "F",
+  "refG": "G",
+  "refH": "H",
+  "refI": "I",
+  "refJ": "J",
+  "refK": "K",
+  "ref1": "L",
+  "statement1": {
+    "name": "naam1",
+    "statement": "We maken afspraken om om te gaan met onderlinge conflicten.",
+    "comment": false,
+    "note_a": "",
+    "note_b": "",
+    "note_c": "",
+    "nrOptions": 3,
+    "answer_a": "Een antwoord bij A",
+    "answer_b": "Een antwoord bij B",
+    "answer_c": "Een antwoord bij C",
+    "answer_d": "Een antwoord bij D"
+  },
+  "statement2": {
+    "name": "naam2",
+    "statement": "Ieder lid van de bedrijfsfamilie is bekend met deze afspraken en bekrachtigt deze.",
+    "comment": false,
+    "refer": 2
+  },
+  "statement3": {
+    "name": "naam3",
+    "statement": "We streven ernaar onderlinge conflicten zoveel mogelijk binnen de bedrijfsfamilie op te lossen.",
+    "comment": true,
+    "note_a": "Net als in elk ander gezin, hebben veel bedrijfsfamilies de voorkeur om onderlinge conflicten zoveel mogelijk binnenkamers te houden."
+  },
+  "statement4": {
+    "name": "naam4",
+    "statement": "We streven ernaar om onderlinge conflicten direct bespreekbaar te maken om escalatie zoveel mogelijk te beperken.",
+    "comment": false
+  },
+  "statement5": {
+    "name": "naam5",
+    "statement": "We hanteren een protocol om onderlinge conflicten inzichtelijk, bespreekbaar en oplosbaar te maken.",
+    "comment": false
+  },
+  "statement6": {
+    "name": "naam6",
+    "statement": "We hanteren binnen dit protocol verschillende stappen bij escalatie van het onderlinge conflict.",
+    "comment": false
+  },
+  "statement7": {
+    "name": "naam7",
+    "statement": "De bedrijfsfamilie kan vanuit haar midden iemand aanwijzen die als vertrouwenspersoon optreedt bij conflicten.",
+    "comment": false
+  },
+  "statement8": {
+    "name": "naam8",
+    "statement": "In het uiterste geval schikken we onderlinge conflicten zonder tussenkomst van een rechtbank.",
+    "comment": true,
+    "note_a": "In veel familiebedrijven speelt de reputatie en privacy een belangrijke rol.",
+    "note_b": "Een rechtsgang kan betekenen dat reputatie en/of privacy geschaad worden, met alle mogelijke gevolgen die daaruit voort kunnen komen."
+  },
+  "statement9": {
+    "name": "naam9",
+    "statement": "We streven ernaar om het effect van onderlinge conflicten zoveel mogelijk te beperken in onze relatie met andere stakeholders in het familiebedrijf.",
+    "comment": false
+  },
+  "statement10": {
+    "name": "naam10",
+    "statement": "Welke andere uitgangspunten vindt u ook belangrijk?",
+    "comment": true,
+    "note_a": "U kunt hier aangeven welke andere uitgangspunten voor u eveneens belangrijk zijn."
+  },
+  "statement11": {
+    "name": "naam11",
+    "statement": "Omdat we allemaal anders kunnen reageren op een onderlinge botsing, is het aan een lid van de bedrijfsfamilie om aan te geven dat hij/zij ervaart dat sprake is van een conflict.",
+    "comment": false
+  },
+  "statement12": {
+    "name": "naam12",
+    "statement": "Vanaf het moment dat een lid van de bedrijfsfamilie aangeeft een conflict te ervaren, is dit protocol van toepassing.",
+    "comment": false
+  },
+  "statement13": {
+    "name": "naam13",
+    "statement": "Indien sprake is van een aangewezen vertrouwenspersoon binnen de bedrijfsfamilie, treedt het betreffende lid met deze persoon in contact.",
+    "comment": false
+  },
+  "statement14": {
+    "name": "naam14",
+    "statement": "Deze vertrouwenspersoon arrangeert een gesprek tussen de leden van de bedrijfsfamilie die met elkaar in conflict zijn.",
+    "comment": false
+  },
+  "statement15": {
+    "name": "naam15",
+    "statement": "Een eerste gesprek over het conflict vindt plaats tussen alleen de direct betrokken leden van de bedrijfsfamilie.",
+    "comment": false
+  },
+  "statement16": {
+    "name": "naam16",
+    "statement": "Indien gewenst, kan de vertrouwenspersoon bij dit eerste gesprek aanwezig zijn.",
+    "comment": false
+  },
+  "statement17": {
+    "name": "naam17",
+    "statement": "De betrokken leden van de bedrijfsfamilie krijgen de tijd en ruimte om op eigen initiatief tot een oplossing van het conflict te komen.",
+    "comment": false
+  },
+  "statement18": {
+    "name": "naam18",
+    "statement": "Gesprekken die betrekking hebben op onderlinge conflicten, vinden niet op het familiebedrijf plaats.",
+    "comment": false
+  },
+  "statement19": {
+    "name": "naam19",
+    "statement": "De gesprekken tussen de direct betrokken leden van de bedrijfsfamilie gaan door, totdat één van de leden aangeeft dat bemiddeling nodig is om het conflict op te lossen",
+    "comment": false
+  },
+  "statement20": {
+    "name": "naam20",
+    "statement": "Voor bemiddeling kunnen de betrokken leden van de bedrijfsfamilie een beroep doen op een externe mediator.",
+    "comment": true,
+    "note_a" : "Een mediator is een specialist in het begeleiden van conflicten.",
+    "note_b" : "In Nederland zijn mediators aangesloten bij een branchevereniging, die een kwaliteitskeurmerk afgeeft."
+  },
+  "statement21": {
+    "name": "naam21",
+    "statement": "Mediation leidt tot een bindend advies voor alle betrokken leden van de bedrijfsfamilie.",
+    "comment": false
+  },
+  "statement22": {
+    "name": "naam22",
+    "statement": "Er dienen afspraken te worden gemaakt over het managen van conflicten tussen familiaire aandeelhouders, niet-familiaire aandeelhouders en het (externe) bedrijfsmanagement.",
+    "comment": false,
+    "refer": 22,
+    "note": "",
+    "type": "slider"
+  },
+  "statement23": {
+    "name": "naam23",
+    "statement": "In de Algemene Vergadering van Aandeelhouders dient in het kader van conflictmanagement een vertrouwenspersoon aangewezen te worden.",
+    "comment": true,
+    "note_a" : "In plaats van de Algemene Vergadering van Aandeelhouders kan dit ook de vergadering van certificaathouders zijn in de situatie van splitsing van eigendom en zeggenschap door middel van een stichting administratiekantoor."
+  },
+  "statement24": {
+    "name": "naam24",
+    "statement": "Deze vertrouwenspersoon arrangeert op aangeven van een conflict door één van de partijen een overleg tussen de direct betrokken partijen.",
+    "comment": false,
+    "refer": 24,
+    "note": "",
+    "type": "slider"
+  },
+  "statement25": {
+    "name": "naam25",
+    "statement": "Deze overleggen gaan door, totdat één van de betrokken partijen aangeeft dat bemiddeling nodig is om het conflict op te lossen.",
+    "comment": false,
+    "refer": 25,
+    "note": "",
+    "type": "slider"
+  },
+  "statement26": {
+    "name": "naam26",
+    "statement": "Voor bemiddeling kunnen de betrokken partijen een beroep doen op een externe mediator.",
+    "comment": false,
+    "refer": 26,
+    "note": "",
+    "type": "slider"
+  },
+  "statement27": {
+    "name": "naam27",
+    "statement": "Mediation leidt tot een bindend advies voor alle betrokken partijen.",
+    "comment": false,
+    "refer": 27,
+    "note": "",
+    "type": "slider"
+  },
+  "statement28": {
+    "name": "naam28",
+    "statement": "",
+    "comment": false,
+    "refer": 28,
+    "note": "",
+    "type": "slider"
+  },
+  "statement29": {
+    "name": "naam29",
+    "statement": "",
+    "comment": false,
+    "refer": 29,
+    "note": "",
+    "type": "slider"
+  },
+  "statement30": {
+    "name": "naam30",
+    "statement": "",
+    "comment": false,
+    "refer": 30,
+    "note": "",
+    "type": "slider"
+  },
+  "statement31": {
+    "statement": "",
+    "comment": false,
+    "refer": 31,
+    "note": "",
+    "type": "slider"
+  },
+  "statement32": {
+    "statement": "",
+    "comment": false,
+    "refer": 32,
+    "note": "",
+    "type": "slider"
+  },
+  "statement33": {
+    "statement": "",
+    "comment": false,
+    "refer": 33,
+    "note": "",
+    "type": "slider"
+  },
+  "statement34": {
+    "statement": "",
+    "comment": false,
+    "refer": 34,
+    "note": "",
+    "type": "slider"
+  },
+  "statement35": {
+    "statement": "",
+    "comment": false,
+    "refer": 35,
+    "note": "",
+    "type": "slider"
+  },
+  "statement36": {
+    "statement": "",
+    "comment": false,
+    "refer": 36,
+    "note": "",
+    "type": "slider"
+  },
+  "statement37": {
+    "statement": "",
+    "comment": false,
+    "refer": 37,
+    "note": "",
+    "type": "slider"
+  },
+  "statement38": {
+    "statement": "",
+    "comment": false,
+    "refer": 38,
+    "note": "",
+    "type": "slider"
+  },
+  "statement39": {
+    "statement": "",
+    "comment": false,
+    "refer": 39,
+    "note": "",
+    "type": "slider"
+  },
+  "statement40": {
+    "statement": "",
+    "comment": false,
+    "refer": 40,
+    "note": "",
+    "type": "slider"
+  },
+  "statement41": {
+    "statement": "",
+    "comment": false,
+    "refer": 41,
+    "note": "",
+    "type": "slider"
+  },
+  "statement42": {
+    "statement": "",
+    "comment": false,
+    "refer": 42,
+    "note": "",
+    "type": "slider"
+  },
+  "statement43": {
+    "statement": "",
+    "comment": false,
+    "refer": 43,
+    "note": "",
+    "type": "slider"
+  },
+  "statement44": {
+    "statement": "",
+    "comment": false,
+    "refer": 44,
+    "note": "",
+    "type": "slider"
+  },
+  "statement45": {
+    "statement": "",
+    "comment": false,
+    "refer": 45,
+    "note": "",
+    "type": "slider"
+  },
+  "statement46": {
+    "statement": "",
+    "comment": false,
+    "refer": 46,
+    "note": "",
+    "type": "slider"
+  },
+  "statement47": {
+    "statement": "",
+    "comment": false,
+    "refer": 47,
+    "note": "",
+    "type": "slider"
+  },
+  "statement48": {
+    "statement": "",
+    "comment": false,
+    "refer": 48,
+    "note": "",
+    "type": "slider"
+  },
+  "statement49": {
+    "statement": "",
+    "comment": false,
+    "refer": 49,
+    "note": "",
+    "type": "slider"
+  },
+  "statement50": {
+    "statement": "",
+    "comment": false,
+    "refer": 50,
+    "note": "",
+    "type": "slider"
+  }
+}

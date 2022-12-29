@@ -1,0 +1,138 @@
+{
+  "sectionA": "Afspraken",
+  "sectionB": "Risicobeheersing",
+  "sectionC": "Privacygevoelige informatie",
+  "sectionD": "Delen van privacygevoelige informatie",
+  "statement1": {
+    "name": "statement1",
+    "statement": "We maken afspraken over hoe we met social media in onze privésfeer omgaan.",
+    "comment": false
+  },
+  "statement2": {
+    "name": "statement2",
+    "statement": "Deze afspraken worden door alle leden van de bedrijfsfamilie, levenspartners en hun kinderen bekrachtigd.",
+    "comment": false
+  },
+  "statement3": {
+    "name": "statement3",
+    "statement": "Indien daartoe aanleiding is, handhaven we deze afspraken door elkaar daarop aan te spreken.",
+    "comment": false
+  },
+  "statement4": {
+    "name": "statement4",
+    "statement": "Ouders zijn verantwoordelijk voor het naleven van deze afspraken door hun minderjarige kinderen.",
+    "comment": false
+  },
+  "statement5": {
+    "name": "statement5",
+    "statement": "We maken afspraken over welke social media we niet gebruiken.",
+    "comment": false
+  },
+  "statement6": {
+    "name": "statement6",
+    "statement": "Welke andere uitgangspunten vindt u ook belangrijk?",
+    "comment": false
+  },
+  "statement7": {
+    "name": "statement7",
+    "statement": "We houden rekening met het risico van inbraak.",
+    "comment": false
+  },
+  "statement8": {
+    "name": "statement8",
+    "statement": "We houden rekening met het risico van reputatieschade.",
+    "comment": false
+  },
+  "statement9": {
+    "name": "statement9",
+    "statement": "We houden rekening met het risico van bedrog of afpersing.",
+    "comment": false
+  },
+  "statement10": {
+    "name": "statement10",
+    "statement": "We houden rekening met het risico van ontvoering.",
+    "comment": false
+  },
+  "statement11": {
+    "name": "statement11",
+    "statement": "We vermijden het delen van privacy-gevoelige informatie via social media.",
+    "comment": false
+  },
+  "statement12": {
+    "name": "statement12",
+    "statement": "Welke andere uitgangspunten vindt u ook belangrijk?",
+    "comment": false
+  },
+  "statement13": {
+    "name": "statement13",
+    "statement": "Persoonsgegevens",
+    "comment": false
+  },
+  "statement14": {
+    "name": "statement14",
+    "statement": "Foto's en video's",
+    "comment": false
+  },
+  "statement15": {
+    "name": "statement15",
+    "statement": "Actuele locatiegegevens",
+    "comment": false
+  },
+  "statement16": {
+    "name": "statement16",
+    "statement": "Reis-, vlucht-, vervoersgegevens van huidige of toekomstige (vakantie)reizen.",
+    "comment": false
+  },
+  "statement17": {
+    "name": "statement17",
+    "statement": "Aankoop of gebruik van waardevolle objecten (auto's, boten, kleding, etc.).",
+    "comment": false
+  },
+  "statement18": {
+    "name": "statement18",
+    "statement": "Luxueuze bestemmingen zoals hotels, resorts, party locaties, etc.",
+    "comment": false
+  },
+  "statement19": {
+    "name": "statement19",
+    "statement": "Welke andere elementen vindt u privacygevoelig?",
+    "comment": false
+  },
+  "statement20": {
+    "name": "statement20",
+    "statement": "Locatiegegevens uitzetten",
+    "comment": true,
+    "note_a": "Op Facebook kan bijvoorbeeld de gezichtsherkenning in foto's worden uitgeschakeld."
+  },
+  "statement21": {
+    "name": "statement21",
+    "statement": "Gezichtsherkenning uitzetten",
+    "comment": false
+  },
+  "statement22": {
+    "name": "statement22",
+    "statement": "Taggen van berichten uitzetten",
+    "comment": true,
+    "note_a": "Onder taggen wordt verstaan het bijvoegen van de naam bij berichten en foto's "
+  },
+  "statement23": {
+    "name": "statement23",
+    "statement": "Controle op taggen aanzetten",
+    "comment": false
+  },
+  "statement24": {
+    "name": "statement24",
+    "statement": "Delen van berichten beperken tot alleen met vrienden",
+    "comment": false
+  },
+  "statement25": {
+    "name": "statement25",
+    "statement": "Vriendschapsverzoeken beperken tot alleen vrienden die je persoonlijk kent.",
+    "comment": false
+  },
+  "statement26": {
+    "name": "statement26",
+    "statement": "Welke andere instellingen vindt u ook belangrijk om aan te passen?",
+    "comment": false
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "sectionA": "Jonge familieleden",
+  "sectionB": "Volgende generatie in het familiebedrijf",
+  "sectionC": "Toegang tot een carrière in het familiebedrijf",
+  "sectionD": "Sollicitatie op bestaande of nieuwe posities in het familiebedrijf",
+  "sectionE": "Voorwaarden",
+  "sectionF": "Carrière",
+  "sectionG": "Pensionering",
+  "statement1": {
+    "name": "statement1",
+    "statement": "Jonge leden van de bedrijfsfamilie mogen schoolprojecten over/binnen het familiebedrijf uitvoeren.",
+    "comment": false
+  },
+  "statement2": {
+    "name": "statement2",
+    "statement": "Jonge leden van de bedrijfsfamilie mogen vakantiewerk doen in het familiebedrijf.",
+    "comment": true,
+    "note_a": "Let op: voor vakantiewerk gelden specifieke wettelijke regels over wanneer en hoe lang jongeren mogen meewerken."
+  },
+  "statement3": {
+    "name": "statement3",
+    "statement": "Jonge leden van de bedrijfsfamilie mogen stage lopen in het kader van hun studie.",
+    "comment": false
+  },
+  "statement4": {
+    "name": "statement4",
+    "statement": "We ontwikkelen zelf mogelijkheden voor jonge leden van de bedrijfsfamilie om kennis te maken met ons familiebedrijf.",
+    "comment": false
+  },
+  "statement5": {
+    "name": "statement5",
+    "statement": "Ik vind het belangrijk dat we zelf mogelijkheden ontwikkelen om jonge familieleden kennis te laten maken met ons familiebedrijf. ",
+    "comment": false
+  },
+  "statement6": {
+    "name": "statement6",
+    "statement": "Deze andere uitgangspunten vind ik ook belangrijk:",
+    "comment": false
+  },
+  "statement7": {
+    "name": "statement7",
+    "statement": "Welk uitgangspunt vindt u het best passend:",
+    "comment": true,
+    "note_a": "A: Als u het eens bent met deze stelling, dan kiest u ervoor dat het belang van de bedrijfsfamilie voor gaat op het bedrijfsbelang. ",
+    "note_b": "B: Als u het eens bent met deze stelling, dan kiest u voor een ander evenwicht tussen bedrijfsbelang en belang van de bedrijfsfamilie dan bij de vorige stelling. Concreet betekent dit dat het familiebedrijf nieuwe posities kan creëren voor toetredende familieleden, waarbij de voorwaarde is dat dit het bedrijfsbelang dient.",
+    "note_c": "C: Als u het eens bent met deze stelling, dan kiest u ervoor dat het bedrijfsbelang voor gaat op het belang van de bedrijfsfamilie.",
+    "nrOptions": 3,
+    "answer_a": "Het familiebedrijf staat open voor alle leden van de volgende generatie van de bedrijfsfamilie om er werkzaam te zijn.",
+    "answer_b": "Het familiebedrijf dient kansen te bieden aan alle leden van de volgende generatie van de bedrijfsfamilie om er te werken, maar wel in lijn met de behoeften van het bedrijf.",
+    "answer_c": "De behoeften van het familiebedrijf staan centraal staan bij het werven van personeel, dus ook bij de leden van de volgende generatie van de bedrijfsfamilie. "
+  },
+  "statement8": {
+    "name": "statement8",
+    "statement": "Een lid van de volgende generatie kan altijd komen werken in het familiebedrijf, los van ervaring, kennis of achtergrond.",
+    "comment": false
+  },
+  "statement9": {
+    "name": "statement9",
+    "statement": "Minimaal een HBO- of WO-diploma.",
+    "comment": false
+  },
+  "statement10": {
+    "name": "statement10",
+    "statement": "Aantoonbare competenties om een (toekomstige) managementfunctie te kunnen vervullen.",
+    "comment": false
+  },
+  "statement11": {
+    "name": "statement11",
+    "statement": "Een aantal jaren werkervaring in een ander bedrijf, liefst in een soortgelijke (management)functie.",
+    "comment": false
+  },
+  "statement12": {
+    "name": "statement12",
+    "statement": "Voor elke is kandidaat een sollicitatieprocedure verplicht, dus ook voor leden van de bedrijfsfamilie.",
+    "comment": false
+  },
+  "statement13": {
+    "name": "statement13",
+    "statement": "Bij sollicitatie van leden van de bedrijfsfamilie wordt altijd extern advies ingewonnen over de geschiktheid van het lid van de bedrijfsfamilie.",
+    "comment": true,
+    "note_a": "Vooral bij grotere familiebedrijven kan de directie in mindere mate betrokken zijn bij het werven en selecteren van kandidaten. Dit ligt dan bij een afdeling HR en/of lijnmanagers. Als u het eens bent met deze stelling, pleit u ervoor dat bevestiging door de directie een belangrijke bevestiging voor de bedrijfsfamilie kan zijn dat het bedrijfsbelang wordt gediend. De kandidaat uit de bedrijfsfamilie wordt gekozen op basis van competenties en geschiktheid, waarmee een eventuele schijn van willekeur wordt vermeden."
+  },
+  "statement14": {
+    "name": "statement14",
+    "statement": "Bij gebleken gelijke geschiktheid van kandidaten, krijgt een lid van de bedrijfsfamilie de voorkeur.",
+    "comment": false
+  },
+  "statement15": {
+    "name": "statement15",
+    "statement": "De beslissing om een lid van de bedrijfsfamilie aan te nemen wordt goedgekeurd door de directie.",
+    "comment": true,
+    "note_a": "Als u het eens bent met deze stelling, vindt u het belangrijk om een objectief extern oordeel te verkrijgen over leden van de bedrijfsfamilie bij hun entree. Ook dit kan behulpzaam zijn bij het vermijden van willekeur."
+  },
+  "statement16": {
+    "name": "statement16",
+    "statement": "Welke andere uitgangspunten vindt u nog meer belangrijk?",
+    "comment": false
+  },
+  "statement17": {
+    "name": "statement17",
+    "statement": "Leden van de bedrijfsfamilie krijgen altijd direct een vast arbeidscontract aangeboden.",
+    "comment": true,
+    "note_a": "In veel bedrijven is het gebruikelijk dat nieuwe medewerkers starten met een arbeidscontract voor bepaalde tijd. Enerzijds om in de eerste periode goed te kunnen beoordelen of er sprake is van een goede match. Anderzijds omdat de economie vraagt om een flexibele schil van arbeidskrachten. Als u het eens bent met deze stelling, dan kiest u ervoor dat deze voorwaarde niet geldt voor leden van de bedirjfsfamilie."
+  },
+  "statement18": {
+    "name": "statement18",
+    "statement": "Leden van de bedrijfsfamilie kunnen alleen full time jobs vervullen binnen het familiebedrijf.",
+    "comment": true,
+    "note_a": "Als u het eens bent met deze stelling, dan kiest u ervoor dat familieleden volledig gecommitteerd zijn aan het familiebedrijf. Er dient geen ruimte te zijn voor deeltijd. "
+  },
+  "statement19": {
+    "name": "statement19",
+    "statement": "De taakomschrijving, verantwoordelijkheden en bevoegdheden voor een bepaalde functie zijn gelijk voor leden van de bedrijfsfamilie en medewerkers.",
+    "comment": true,
+    "note_a": "Als u het eens bent met deze stelling, dan kiest u voor gelijkheid tussen familieleden en niet-familieleden."
+  },
+  "statement20": {
+    "name": "statement20",
+    "statement": "De beoordelingscriteria en de wijze van beoordelen zijn gelijk voor leden van de bedrijfsfamilie en medewerkers.",
+    "comment": false
+  },
+  "statement21": {
+    "name": "statement21",
+    "statement": "De arbeidsvoorwaarden, beloning en andere emolumenten voor een bepaalde functie zijn gelijk voor leden van de bedrijfsfamilie en medewerkers.",
+    "comment": false
+  },
+  "statement22": {
+    "name": "statement22",
+    "statement": "Welke uitgangspunten vindt u nog meer belangrijk?",
+    "comment": false
+  },
+  "statement23": {
+    "name": "statement23",
+    "statement": "Leden van de bedrijfsfamilie krijgen (onder voorwaarden) opleidingsfaciliteiten aangeboden om zich voor te bereiden op managementfuncties.",
+    "comment": false
+  },
+  "statement24": {
+    "name": "statement24",
+    "statement": "Leden van de bedrijfsfamilie kunnen op hun verzoek een mentor toegewezen krijgen.",
+    "comment": false
+  },
+  "statement25": {
+    "name": "statement25",
+    "statement": "Promotie van leden van de bedrijfsfamilie vindt plaats op basis van goedkeuring door de directie.",
+    "comment": false
+  },
+  "statement26": {
+    "name": "statement26",
+    "statement": "Leden van de bedrijfsfamilie kunnen op hun verzoek gebruik maken van de mogelijkheden tot demotie c.q. minder uren te gaan werken.",
+    "comment": false
+  },
+  "statement27": {
+    "name": "statement27",
+    "statement": "Als leden van de bedrijfsfamilie besluiten minder uren te gaan werken, dienen leidinggevende taken (deels) te worden overgedragen.",
+    "comment": false
+  },
+  "statement28": {
+    "name": "statement28",
+    "statement": "Niet presterende leden van de bedrijfsfamilie, dienen (op termijn) het familiebedrijf te verlaten.",
+    "comment": false
+  },
+  "statement29": {
+    "name": "statement29",
+    "statement": "Welke andere uitgangspunten vindt u nog meer belangrijk?",
+    "comment": false
+  },
+  "statement30": {
+    "name": "statement30",
+    "statement": "Leden van de bedrijfsfamilie kunnen met pensioen gaan vanaf een bepaalde (minimum)leeftijd.",
+    "comment": false
+  },
+  "statement31": {
+    "name": "statement31",
+    "statement": "Leden van de bedrijfsfamilie dienen met pensioen te gaan bij het bereiken van een bepaalde (maximum)leeftijd.",
+    "comment": false
+  },
+  "statement32": {
+    "name": "statement32",
+    "statement": "Leden van de bedrijfsfamilie kunnen op hun verzoek na het bereiken van de pensioengerechtigde leeftijd in het familiebedrijf blijven werken.",
+    "comment": false
+  },
+  "statement33": {
+    "name": "statement33",
+    "statement": "Het is belangrijk om oudere, werkzame leden van de bedrijfsfamilie te behouden voor het familiebedrijf.",
+    "comment": false
+  },
+  "statement34": {
+    "name": "statement34",
+    "statement": "Leden van de bedrijfsfamilie kunnen op verzoek van de directie ook na hun pensioen nog betrokken zijn bij het familiebedrijf in een nader te omschrijven rol.",
+    "comment": false
+  },
+  "statement35": {
+    "name": "statement35",
+    "statement": "Welke andere uitgangspunten vindt u nog ook belangrijk?",
+    "comment": false
+  }
+}

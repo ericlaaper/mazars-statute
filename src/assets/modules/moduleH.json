@@ -1,0 +1,191 @@
+{
+  "sectionA": "Familiair aandeelhouderschap",
+  "sectionB": "Timing van aandeelhouder worden",
+  "sectionC": "Familiair eigendom behouden en doorgeven",
+  "sectionD": "Zeggenschap familiaire aandeelhouders",
+  "sectionE": "Aan- en verkooptransacties",
+  "sectionF": "Niet-familiaire aandeelhouders",
+  "statement1": {
+    "name": "statement1",
+    "statement": "Welke van de volgende stellingen over aandeelhouderschap vindt u het best passend bij uw familiebedrijf?",
+    "comment": true,
+    "note_a": "A: Onder de leden van de bedrijfsfamilie wordt hier verstaan de gezins- of familieleden zoals deze zijn bepaald in de module Inleiding.",
+    "note_b": "B: Alleen in het familiebedrijf werkzame leden van de bedrijfsfamilie als aandeelhouder kan de complexiteit verminderen ten aanzien van sommige onderwerpen, maar de complexiteit vergroten voor andere onderwerpen. Bijvoorbeeld het vaststellen van de winstuitkering aan de aandeelhouders (dividend) versus bijvoorbeeld het creëren van voldoende betrokkenheid van de bedrijfsfamilie om toegang te hebben tot nieuw talent of groeikapitaal vanuit de bedrijfsfamilie.",
+    "note_c": "C: Bij grotere familiebedrijven komt het voor dat deze regeling expliciet wordt getroffen, eventueel in samenhang met de regels over de toegang van leden van de bedrijfsfamilie in het familiebedrijf. Hieraan is verbonden dat de kring van familiaire aandeelhouders zeer beperkt kan zijn, namelijk alleen de leden van de directie of het managementteam.",
+    "nrOptions": 3,
+    "answer_a": "Alle leden van de bedrijfsfamilie kunnen aandeelhouder worden.",
+    "answer_b": "Alleen leden van de bedrijfsfamilie die in het familiebedrijf werken, kunnen aandeelhouder worden.",
+    "answer_c": "Ik vind het belangrijk dat alleen leden van de bedrijfsfamilie, die in het familiebedrijf actief zijn als lid van het management of de directie, aandeelhouder mogen worden."
+  },
+  "statement2": {
+    "name": "statement2",
+    "statement": "Welke van de volgende stellingen over timing van aandeelhouder worden vindt u het best passend bij uw familiebedrijf?",
+    "comment": true,
+    "note_a": "A: Als u het met de stelling eens bent, kiest u ervoor dat leden van de bedrijfsfamilie het recht hebben om de timing van aandeelhouder worden zelf te bepalen.",
+    "note_b": "B: Als u het met de stelling eens bent, kiest u ervoor dat de (familiaire) eigenaren beslissen op welk moment leden van de bedrijfsfamilie aandeelhouder kunnen worden.",
+    "note_c": "",
+    "nrOptions": 2,
+    "answer_a": "A: Volwassen leden van de bedrijfsfamilie kunnen, op eigen initiatief en op elk moment, aandeelhouder worden, mits zij aan de gestelde criteria van familiair aandeelhouder voldoen.",
+    "answer_b": "B :Volwassen leden van de bedrijfsfamilie, die aan de gestelde criteria voldoen om familiair aandeelhouder te worden, kunnen aandeelhouder worden als zij daartoe worden uitgenodigd door de bestaande aandeelhouders."
+  },
+  "statement3": {
+    "name": "statement3",
+    "statement": "Een familiair aandeelhouder dient zijn aandelen aan te bieden aan het familiebedrijf als zijn/haar actieve rol in het familiebedrijf eindigt.",
+    "comment": true,
+    "note_a": "Als u het met deze stelling eens bent, verbindt u het eigendom van het individuele lid van de bedrijfsfamilie aan de actieve rol binnen het familiebedrijf.",
+    "note_b": "",
+    "note_c": ""
+  },
+  "statement4": {
+    "name": "statement4",
+    "statement": "Een familiair aandeelhouder kan aandelen alleen schenken en laten vererven aan de eigen (klein)kinderen.",
+    "comment": true,
+    "note_a": "Als u het met deze stelling eens bent, kiest u ervoor dat het individuele lid van de bedrijfsfamilie zelf de keuze heeft om bij leven of overlijden de aandelen over te dragen naar de eigen (klein)kinderen. ",
+    "note_b": "Hierbij blijven de aandeelverhoudingen tussen de verschillende staken binnen de bedrijfsfamilie gelijk aan elkaar. Per familiare aandeelhouder kunnen grote verschillen ontstaan, aangezien het aandelenbezit afhankelijk wordt van het aantal kinderen per staak. De mogelijkheid van schenken of vererven dient vastgelegd te zijn in de statuten van het bedrijf, alsmede in de aandeelhoudersovereenkomst. Uiteraard dient er op persoonlijk niveau een goede akte van schenking of testament te worden gemaakt."
+  },
+  "statement5": {
+    "name": "statement5",
+    "statement": "Een familiair aandeelhouder kan aandelen niet bij leven schenken.",
+    "comment": true,
+    "note_a": "Deze stelling is gelijk aan de vorige stelling, waarbij het verschil zit in het moment van overgang van de aandelen. In dit geval kunnen aandelen alleen overgaan bij overlijden van de familiair aandeelhouder. Dit dient overigens vastgelegd te zijn in de statuten van het bedrijf,alsmede in de aandeelhoudersovereenkomst. Uiteraard dient er op persoonlijk niveau een goed testament te worden gemaakt."
+  },
+  "statement6": {
+    "name": "statement6",
+    "statement": "Bij overlijden van een familiair aandeelhouder dienen de aandelen aangeboden te worden aan het familiebedrijf.",
+    "comment": true,
+    "note_a": "In tegenstelling tot de vorige stellingen, is het uitgangspunt van deze stelling dat niet het individuele lid van de bedrijfsfamilie de keuze krijgt met betrekking tot de overgang van de aandelen, maar dat deze verplicht aangeboden moeten worden aan het familiebedrijf. De zittende familiaire aandeelhouders bepalen vervolgens of en aan wie de aandelen worden aangeboden. De erfgenamen ontvangen vanzelfsprekend wel een verkoopprijs voor de aandelen.",
+    "note_b": "Belangrijk is dat als deze regel geldt, de erfgenamen naar verwachting geen recht hebben op fiscale faciliteiten zoals de Bedrijfsopvolgingsregeling."
+  },
+  "statement7": {
+    "name": "statement7",
+    "statement": "Bij een echtscheiding of verbreken van een geregistreerd partnerschap dienen de aandelen in handen te blijven van de betreffende familiair aandeelhouder en niet terecht komen bij de ex-partner.",
+    "comment": true,
+    "note_a": "In deze situatie komt de financiële waarde van de aandelen in de boedelscheiding en niet de aandelen zelf, waardoor geen overgangsrecht ontstaat voor de levenspartner over deze aandelen.",
+    "note_b": "Deze afspraak dient vastgelegd te worden in de huwelijkse voorwaarden of in de voorwaarden van het geregistreerd partnerschap.",
+    "note_c": ""
+  },
+  "statement8": {
+    "name": "statement8",
+    "statement": "In de situatie dat de levenspartner mede-aandeelhouder is, dienen de aandelen aan het familiebedrijf te worden aangeboden bij het verbreken van het huwelijk of geregistreerd partnerschap.",
+    "comment": true,
+    "note_a": "In deze situatie ontvangt de levenspartner de financiële waarde van de aandelen, maar verkrijgt niet het recht om het aandelenbezit te houden na echtscheiding of verbreken van het geregistreerd partnerschap. Deze afspraak dient vastgelegd te worden in de huwelijkse voorwaarden of het geregistreerd partnerschap."
+  },
+  "statement9": {
+    "name": "statement9",
+    "statement": "Welke andere uitgangspunten vindt u ook belangrijk?",
+    "comment": false
+  },
+  "statement10": {
+    "name": "statement10",
+    "statement": "Alle familiaire aandeelhouders hebben zeggenschap hebben in het familiebedrijf.",
+    "comment": true,
+    "note_a": "Als u het met deze stelling eens bent, is uw uitgangspunt dat alle familiaire aandeelhouders zeggenschap hebben in het familiebedrijf. Los van het feit of zij werkzaam of niet werkzaam zijn in het familiebedrijf."
+  },
+  "statement11": {
+    "name": "statement11",
+    "statement": "Alleen familiaire aandeelhouders die actief zijn in het familiebedrijf hebben zeggenschap.",
+    "comment": true,
+    "note_a": "Als u het met deze stelling eens bent, dan is uw uitgangspunt dat alleen de familiaire aandeelhouders die werkzaam zijn in het familiebedrijf ook mogen mee beslissen over het familiebedrijf. De familiaire aandeelhouders die niet in het familiebedrijf werkzaam zijn, krijgen  geen zeggenschap."
+  },
+  "statement12": {
+    "name": "statement12",
+    "statement": "Alleen familiaire aandeelhouders die een actieve rol vervullen als lid van het management of directie hebben zeggenschap in het familiebedrijf.",
+    "comment": true,
+    "note_a": "Als u het met deze stelling eens bent, beperkt u de directe inspraak in de besluitvorming tot alleen de familiaire aandeelhouders die een management-, directie- of bestuursfunctie hebben."
+  },
+  "statement13": {
+    "name": "statement13",
+    "statement": "Als de actieve rol in het familiebedrijf eindigt, eindigt ook de zeggenschap in het familiebedrijf. ",
+    "comment": false
+  },
+  "statement14": {
+    "name": "statement14",
+    "statement": "De latende directeur kan zeggenschap behouden na zijn overdracht van de leiding van het familiebedrijf.",
+    "comment": false
+  },
+  "statement15": {
+    "name": "statement15",
+    "statement": "Welke andere uitgangspunten vindt u ook belangrijk?",
+    "comment": false
+  },
+  "statement16": {
+    "name": "statement16",
+    "statement": "De prijs bij aan- en verkooptransacties van aandelen is gebaseerd op een extern waarderingsrapport.",
+    "comment": true,
+    "note_a": "Bij aan- en verkooptransacties is in theorie altijd een tegengesteld belang tussen koper en verkoper. Het geschilpunt kan de prijs zijn. Een objectief standpunt over de waarde van de aandelen, uitgevoerd door een externe deskundige, kan helpen dit geschilpunt te vermijden.",
+    "note_b": "",
+    "note_c": ""
+  },
+  "statement17": {
+    "name": "statement17",
+    "statement": "Een toetredend familiair aandeelhouder kan rekenen op financiering vanuit het familiebedrijf, zodat maximaal 50% van de koopsom extern gefinancierd dient te worden.",
+    "comment": true,
+    "note_a": "Deze problematiek speelt vaak bij grotere familiebedrijven. De aankoop van aandelen kan gepaard gaan met een hoge investering, wat voor toetredende leden van de bedrijfsfamilie moeilijk te financieren is bij een bank of andere financiële instelling. Een financieringsarrangement vanuit het familiebedrijf kan het toetredend lid van de bedrijfsfamilie de kans geven zich in te kopen tegen gunstigere financieringsvoorwaarden.",
+    "note_b": "",
+    "note_c": ""
+  },
+  "statement18": {
+    "name": "statement18",
+    "statement": "Een uittredend familiair aandeelhouder kan direct beschikken over de volledige opbrengst van de verkoop.",
+    "comment": true,
+    "note_a": "De wijze waarop de uitbetaling van de overnamesom plaatsvindt, kan op verschillende manieren worden vormgegeven. Ook hierbij kan sprake zijn van tegengestelde belangen. Een familiaire aandeelhouder die het aandelenbezit verkoopt, kan er baat bij hebben om direct over de verkoopwaarde te beschikken. Bijvoorbeeld omdat het een belangrijke aanvulling op het pensioeninkomen is of omdat er dan geen sprake meer is van zakelijk risico over de verkoopwaarde. Aan de andere kant kan het voor de toetredende familiaire aandeelhouder belangrijk zijn om geen zware financieringslasten te hebben, bijvoorbeeld omdat er hoge investeringen in het bedrijf nodig zijn."
+  },
+  "statement19": {
+    "name": "statement19",
+    "statement": "Een familiair aandeelhouder kan zijn/haar aandelen aanbieden aan het familiebedrijf op het moment dat hij/zij dat wenst.",
+    "comment": false
+  },
+  "statement20": {
+    "name": "statement20",
+    "statement": "Het familiebedrijf dient voldoende financiële reserves te hebben om een familiair aandeelhouder uit te kopen.",
+    "comment": true,
+    "note_a": "De faciliteit om direct een familiair aandeelhouder te kunnen uitkopen kan belangrijk zijn bij het bereiken van de pensioengerechtigde leeftijd door deze familiaire aandeelhouder of als bijvoorbeeld na een conflict een familiaire aandeelhouder direct wenst uit te treden uit het familiebedrijf."
+  },
+  "statement21": {
+    "name": "statement21",
+    "statement": "Familiare aandeelhouders kunnen gebruik maken van een rekening-courantverhouding met het familiebedrijf.",
+    "comment": true,
+    "note_a": "Een rekening-courant kan gebruikt worden als een voorschot op de toekomstige verkoop van aandelen of toekomende dividenduitkeringen."
+  },
+  "statement22": {
+    "name": "statement22",
+    "statement": "Indien het voor groei/expansie noodzakelijk is, kunnen externe verschaffers van risicodragend kapitaal zoals private equity of participatiemaatschappijen een aandelenbelang krijgen.",
+    "comment": true,
+    "note_a": "In een fase van sterke omzetgroei heeft een bedrijf vaak extra kapitaal nodig om dit te kunnen financieren. Voor veel familiebedrijven geldt dat een beursgang geen optie is om extra kapitaal te verkrijgen. Participatie of Private Equity-maatschappijen kunnen dan een oplossing bieden. In ruil voor een aandelenbelang en invloed op de strategische besluitvorming zijn zij bereid om mee te investeren in de groei van het familiebedrijf. Vaak investeren zij om na een aantal jaar het aandelenbelang weer te verkopen, hetzij aan de bedrijfsfamilie, hetzij aan een andere investeerder."
+  },
+  "statement23": {
+    "name": "statement23",
+    "statement": "Managers en/of medewerkers met een sleutelpositie in het familiebedrijf kunnen aandeelhouder worden.",
+    "comment": true,
+    "note_a": "Het succes van het familiebedrijf hoeft niet alleen verbonden te zijn aan de leden van de bedrijfsfamilie, maar kan ook verbonden zijn aan medewerkers met specifieke kennis en vaardigheden. Het kan dan een voordeel zijn om hen te boeien en binden aan het familiebedrijf, bijvoorbeeld door hen als aandeelhouder mee te laten delen in de bedrijfsresultaten."
+  },
+  "statement24": {
+    "name": "statement24",
+    "statement": "Niet-familiaire aandeelhouders krijgen geen zeggenschap in het familiebedrijf.",
+    "comment": true,
+    "note_a": "Het is mogelijk om niet-familiaire aandeelhouders eigendom te geven met of zonder het recht van zeggenschap. Belangrijk is wel dat in het algemeen kapitaalverschaffers een vorm van inspraak en invloed op de strategische besluitvorming willen vastleggen als zij investeren in een familiebedrijf."
+  },
+  "statement25": {
+    "name": "statement25",
+    "statement": "Managers en medewerkers dienen te allen tijde het aandelenbelang aan te bieden aan het familiebedrijf als hun actieve rol in het familiebedrijf stopt.",
+    "comment": true,
+    "note_a": "Als u het eens bent met deze stelling, kunnen niet-familiaire managers en medewerkers bij hun vertrek geen aandelenbelang meer aanhouden in het bedrijf."
+  },
+  "statement26": {
+    "name": "statement26",
+    "statement": "Met managers en medewerkers dient te worden afgesproken dat bij hun overlijden het aandelenbelang aan het familiebedrijf wordt aangeboden.",
+    "comment": true,
+    "note_a": "Als u het eens bent met deze stelling, verkrijgen de erfgenamen van een niet-familiaire manager of medewerker een verkoopwaarde van de aandelen in plaats van de aandelen zelf."
+  },
+  "statement27": {
+    "name": "statement27",
+    "statement": "Met managers en medewerkers dient te worden afgesproken dat bij een eventuele verkoop van het familiebedrijf hun aandelen dienen te worden aangeboden.",
+    "comment": true,
+    "note_a": "Bij de verkoop van een onderneming kan het een koper afschrikken als zij niet alle aandelen van de bestaande aandeelhouders geleverd krijgt bij de koop. Vandaar dat vaak afspraken tussen de aandeelhouders worden gemaakt dat verkoop van de onderneming voor alle aandeelhouders geldt."
+  },
+  "statement28": {
+    "name": "statement28",
+    "statement": "Welke andere uitgangspunten vindt u ook belangrijk ten aanzien van niet-familiaire aandeelhouders?",
+    "comment": false
+  }
+}

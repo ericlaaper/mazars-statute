@@ -1,0 +1,116 @@
+{
+  "sectionA": "Primaire arbeidsvoorwaarden",
+  "sectionB": "Secundaire arbeidsvoorwaarden",
+  "sectionC": "Variabele beloning",
+  "statement1": {
+    "name": "statement1",
+    "statement": "Leden van de bedrijfsfamilie ontvangen een marktconforme beloning, passend bij de zwaarte van de functie en de marktomstandigheden.",
+    "comment": true,
+    "note_a": "Een marktconforme arbeidsbeloning kan helpen om gevoelens van onzekerheid en onrechtvaardigheid weg te nemen bij leden van de bedrijfsfamilie die geen familiair eigenaar zijn."
+  },
+  "statement2": {
+    "name": "statement2",
+    "statement": "Er wordt geen onderscheid gemaakt tussen de beloning van mannelijke en vrouwelijke leden van de bedrijfsfamilie in dezelfde functie.",
+    "comment": false
+  },
+  "statement3": {
+    "name": "statement3",
+    "statement": "Het salaris van een lid van de bedrijfsfamilie wijkt niet af van een medewerker in dezelfde functie.",
+    "comment": false
+  },
+  "statement4": {
+    "name": "statement4",
+    "statement": "Als sprake is van een verplichte deelname aan een CAO, zijn de salarissen van leden van de bedrijfsfamilie hier (mede) op gebaseerd.",
+    "comment": false
+  },
+  "statement5": {
+    "name": "statement5",
+    "statement": "Een eventuele variabele beloning van leden van de bedrijfsfamilie dient jaarlijks door de directie te worden vastgesteld.",
+    "comment": true,
+    "note_a": "De vaststelling van de hoogte van de variabele beloning kan gevoelig liggen. Bijvoorbeeld als de vaststelling plaatsvindt door een lid van de bedrijfsfamilie in een hogere functie dan het betreffende lid van de bedrijfsfamilie."
+  },
+  "statement6": {
+    "name": "statement6",
+    "statement": "Welke andere uitgangspunten vindt u belangrijk?",
+    "comment": false
+  },
+  "statement7": {
+    "name": "statement7",
+    "statement": "Binnen de auto(lease)regeling worden extra mogelijkheden voor leden van de bedrijfsfamilie gecreëerd.",
+    "comment": true,
+    "note_a": "Als u het met deze stelling eens bent, dan vindt u dat leden van de bedrijfsfamilie een voordeel mogen genieten ten opzichte van medewerkers."
+  },
+  "statement8": {
+    "name": "statement8",
+    "statement": "Binnen het opleidingsbudget worden extra mogelijkheden voor leden van de bedrijfsfamilie gecreëerd.",
+    "comment": true,
+    "note_a": "Als u het met deze stelling eens bent, dan vindt u dat het familiebedrijf extra mag investeren in de ontwikkeling van het potentieel van de leden van de bedrijfsfamilie."
+  },
+  "statement9": {
+    "name": "statement9",
+    "statement": "Leden van de bedrijfsfamilie kunnen, waar mogelijk, gebruik maken van een extra faciliteiten om te sparen om eerder met pensioen te gaan.",
+    "comment": false
+  },
+  "statement10": {
+    "name": "statement10",
+    "statement": "Leden van de bedrijfsfamilie kunnen, waar mogelijk, zich (extra) verzekeren tegen de gevolgen van arbeidsongeschiktheid.",
+    "comment": false
+  },
+  "statement11": {
+    "name": "statement11",
+    "statement": "Leden van de bedrijfsfamilie kunnen, waar mogelijk, zich (extra) verzekeren tegen de gevolgen van overlijden.",
+    "comment": false
+  },
+  "statement12": {
+    "name": "statement12",
+    "statement": "Welke andere uitgangspunten vindt u ook belangrijk?",
+    "comment": false
+  },
+  "statement13": {
+    "name": "statement13",
+    "statement": "Een deel van het salaris is afhankelijk van de geleverde prestaties (variabele beloning).",
+    "comment": false
+  },
+  "statement14": {
+    "name": "statement14",
+    "statement": "Het systeem van variabele beloning dient te passen binnen onze familiewaarden.",
+    "comment": false
+  },
+  "statement15": {
+    "name": "statement15",
+    "statement": "Het systeem van variabele beloning is van toepassing voor zowel leden van de bedrijfsfamilie als medewerkers.",
+    "comment": false
+  },
+  "statement16": {
+    "name": "statement16",
+    "statement": "Variabele beloning is alleen mogelijk als er jaarlijks goede afspraken worden gemaakt over de te leveren prestaties, de wijze van meten en beoordelen en de hoogte van de variabele beloning.",
+    "comment": false
+  },
+  "statement17": {
+    "name": "statement17",
+    "statement": "Variabele beloning dient naast individuele beloning ook een beloning op team- of afdelingsniveau te bevatten.",
+    "comment": false
+  },
+  "statement18": {
+    "name": "statement18",
+    "statement": "Ik vind dat een systeem van variabele beloning geen onderscheid mag maken tussen familieleden en niet-familieleden.",
+    "comment": false
+  },
+  "statement19": {
+    "name": "statement19",
+    "statement": "De variabele beloning voor leden van de bedrijfsfamilie mag niet afwijken van medewerkers in dezelfde functie.",
+    "comment": true,
+    "note_a": "Deze stelling pleit ervoor dat er geen verschil is tussen leden van de bedrijfsfamilie en medewerkers. Voor iedereen gelden dezelfde regels met betrekking tot variabele beloning."
+  },
+  "statement20": {
+    "name": "statement20",
+    "statement": "Alle leden van de bedrijfsfamilie dienen een gelijke variabele beloning te ontvangen.",
+    "comment": true,
+    "note_a": "Deze stelling pleit ervoor dat de variabele beloning voor alle leden van de bedrijfsfamilie gelijk is. Daarmee wordt wel het onderscheid met betrekking tot functie, rol en verantwoordelijkheid binnen het familiebedrijf losgelaten."
+  },
+  "statement21": {
+    "name": "statement21",
+    "statement": "Welke andere uitgangspunten vindt u ook belangrijk?",
+    "comment": false
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "sectionA": "Financiële doelen vanuit de bedrijfsfamilie",
+  "sectionB": "Strategische opties als de economische vooruitzichten positief zijn",
+  "sectionC": "Strategische opties als de economische vooruitzichten negatief zijn",
+  "sectionD": "Financiering van investeringen",
+  "sectionE": "Bedrijfsvoering",
+  "sectionF": "Verkoop van het familiebedrijf",
+  "sectionG": "Familievermogen buiten het familiebedrijf",
+  "sectionH": "Doelen van het familievermogen",
+  "sectionI": "Investeringen in nieuwe ondernemingen buiten het familiebedrijf (business ventures)",
+  "sectionJ": "",
+  "sectionK": "",
+  "statement1": {
+    "name": "statement1",
+    "statement": "Een goed en stabiel rendement over het geïnvesteerde aandelenkapitaal in het familiebedrijf (indicatie: 5% per jaar).",
+    "comment": false
+  },
+  "statement2": {
+    "name": "statement2",
+    "statement": "Een stabiel, jaarlijks dividend (indicatie: minimaal gelijk aan de spaarrente op dat moment).",
+    "comment": false
+  },
+  "statement3": {
+    "name": "statement3",
+    "statement": "Een financieel verlies op het geïnvesteerd vermogen blijft zoveel mogelijk beperkt (indicatie: maximaal 2% per jaar).",
+    "comment": false
+  },
+  "statement4": {
+    "name": "statement4",
+    "statement": "Afzien van een dividenduitkering als het familiebedrijf de winst moet investeren in het bedrijf.",
+    "comment": false
+  },
+  "statement5": {
+    "name": "statement5",
+    "statement": "Het familiebedrijf ondersteunen in moeilijke tijden door bijvoorbeeld nieuw kapitaal of nieuwe (achtergestelde) leningen te verstrekken.",
+    "comment": false
+  },
+  "statement6": {
+    "name": "statement6",
+    "statement": "Deze financiële doelen vind ik ook belangrijk:",
+    "comment": false
+  },
+  "statement7": {
+    "name": "statement7",
+    "statement": "Agressiever optreden om de marktpositie te versterken.",
+    "comment": false
+  },
+  "statement8": {
+    "name": "statement8",
+    "statement": "Meer groeikapitaal beschikbaar stellen.",
+    "comment": false
+  },
+  "statement9": {
+    "name": "statement9",
+    "statement": "Innovatie van bestaande producten of diensten versnellen.",
+    "comment": false
+  },
+  "statement10": {
+    "name": "statement10",
+    "statement": "Innovatie van nieuwe producten of diensten.",
+    "comment": false
+  },
+  "statement11": {
+    "name": "statement11",
+    "statement": "(Verder) internationaliseren van de activiteiten door nieuwe landen/regio's te betreden of activiteiten in bestaande landen/regio's uit te breiden.",
+    "comment": false
+  },
+  "statement12": {
+    "name": "statement12",
+    "statement": "Vergaande strategische samenwerking met of acquisitie van (kleinere) ondernemingen in hetzelfde marktsegment. ",
+    "comment": false
+  },
+  "statement13": {
+    "name": "statement13",
+    "statement": "Deze opties vind ik ook belangrijk:",
+    "comment": false
+  },
+  "statement14": {
+    "name": "statement14",
+    "statement": "Uitstellen van (her)investeringen.",
+    "comment": false
+  },
+  "statement15": {
+    "name": "statement15",
+    "statement": "Snel en efficiënt de bedrijfskosten naar beneden brengen (o.a. reorganisatie).",
+    "comment": false
+  },
+  "statement16": {
+    "name": "statement16",
+    "statement": "Afstoten van bedrijfsactiviteiten die onvoldoende rentabiliteit opbrengen.",
+    "comment": false
+  },
+  "statement17": {
+    "name": "statement17",
+    "statement": "Zoeken naar nieuwe groeimarkten.",
+    "comment": false
+  },
+  "statement18": {
+    "name": "statement18",
+    "statement": "Onderzoeken en bespreken van verkoop van het familiebedrijf.",
+    "comment": false
+  },
+  "statement19": {
+    "name": "statement19",
+    "statement": "Deze opties vind ik ook belangrijk:",
+    "comment": false
+  },
+  "statement20": {
+    "name": "statement20",
+    "statement": "(Her)investeringen vinden zoveel mogelijk plaats vanuit het bestaande ondernemingskapitaal.",
+    "comment": true,
+    "note_a": "Als u het met deze stelling eens bent, dan kiest u voor een balans met een hoog eigen vermogen ten opzichte van het totale vermogen. ",
+    "note_b": "Een voordeel hiervan is dat het familiebedrijf dan financieel goed bestand is tegen economisch slechtere omstandigheden.",
+    "note_c": "Een nadeel kan zijn dat een hoog eigen vermogen een drukkend effect kan hebben op de winstgevendheid."
+  },
+  "statement21": {
+    "name": "statement21",
+    "statement": "(Her)investeringen vinden zoveel mogelijk plaats via externe (bancaire) financiering.",
+    "comment": true,
+    "note_a": "Als u het met deze stelling eens bent, dan kiest u voor meer vreemd vermogen op de balans. ",
+    "note_b": "Een voordeel is dat vreemd vermogen kan bijdragen aan extra groei en winstgevendheid. ",
+    "note_c": "Een nadeel kan zijn dat deze financiële verplichtingen sterk op de winstgevendheid drukken in perioden dat de omzet stagneert of daalt."
+  },
+  "statement22": {
+    "name": "statement22",
+    "statement": "Voor nieuwe investeringen (zoals groeikapitaal) is externe financiering via een participatiemaatschappij mogelijk.",
+    "comment": true,
+    "note_a": "Participatiemaatschappijen verstrekken risicodragend kapitaal vanuit hun streven om gezamenlijk expansie van het bedrijf mogelijk te maken. ",
+    "note_b": "Vaak is het streven van een participatiemaatschappij om na een periode van omzet- en winstgroei het belang in het bedrijf weer te verkopen."
+  },
+  "statement23": {
+    "name": "statement23",
+    "statement": "Financiering van nieuwe investeringen en/of werkkapitaal kan plaatsvinden via leasing of factoring.",
+    "comment": true,
+    "note_a": "Lease is een financieringsvorm waarbij de kredietverstrekker een bedrijfsmiddel aankoopt en deze gedurende een vooraf overeengekomen periode en tegen een bepaalde vergoeding ter beschikking stelt aan een kredietnemer (bijvoorbeeld een familiebedrijf). De kredietverstrekker blijft gedurende deze periode juridisch eigenaar van de geleasete goederen. ",
+    "note_b": "Het voordeel voor de kredietnemer (familiebedrijf) is dat het bedrijfsmiddel niet zelf hoeft te worden aangekocht wat ten laste gaat van het beschikbare kapitaal en dat de te betalen vergoeding als bedrijfslasten worden aangemerkt. In perioden van omzetgroei blijft dan meer financiële ruimte beschikbaar voor het familiebedrijf. Factoring is een financieringsinstrument dat voorfinanciering van de gefactureerde omzet behelst. Door deze",
+    "note_c": "Factoring is een financieringsinstrument dat voorfinanciering van de gefactureerde omzet behelst. Door deze voorfinanciering beschikt de onderneming eerder over werkkapitaal en kan extra omzetgroei makkelijker gefinancierd worden."
+  },
+  "statement24": {
+    "name": "statement24",
+    "statement": "Deze andere financieringsmogelijkheden vind ik ook belangrijk:",
+    "comment": false
+  },
+  "statement25": {
+    "name": "statement25",
+    "statement": "Het bedrijfsmanagement werkt met een jaarlijkse resultaat-, investeringsbegroting en liquiditeitenplanning.",
+    "comment": false
+  },
+  "statement26": {
+    "name": "statement26",
+    "statement": "Het bedrijfsmanagement werkt met een prognose van balans en winst- en verliesrekening voor een periode van 3 jaar.",
+    "comment": true,
+    "note_a": "Een prognose van 3 jaar geeft de aandeelhouders inzicht in de verwachte (toekomstige) rentabiliteit van de onderneming."
+  },
+  "statement27": {
+    "name": "statement27",
+    "statement": "Het bedrijfsmanagement werkt met een financiële onderbouwing voor nieuwe investeringen.",
+    "comment": true,
+    "note_a": "Met een financiële onderbouwing wordt bedoeld dat het voor de aandeelhouders inzichtelijk wordt welke waarde de beoogde investeringen toevoegen aan de onderneming."
+  },
+  "statement28": {
+    "name": "statement28",
+    "statement": "Het bedrijfsmanagement werkt met een actief risicomanagement, waarbij gestuurd wordt op risicohouding en -bewustzijn bij de medewerkers.",
+    "comment": false
+  },
+  "statement29": {
+    "name": "statement29",
+    "statement": "Het bedrijfsmanagement werkt met een continuïteitsplan, zodat het familiebedrijf goed is voorbereid op grote ongevallen of rampen.",
+    "comment": false
+  },
+  "statement30": {
+    "name": "statement30",
+    "statement": "Deze uitgangspunten met betrekking tot de bedrijfsvoering vind ik ook belangrijk:",
+    "comment": false
+  },
+  "statement31": {
+    "name": "statement31",
+    "statement": "Als een (strategische) koper een aantrekkelijk bod doet.",
+    "comment": false
+  },
+  "statement32": {
+    "name": "statement32",
+    "statement": "Als er geen capabele opvolgers in de familie aanwezig zijn.",
+    "comment": false
+  },
+  "statement33": {
+    "name": "statement33",
+    "statement": "Als het rendement van het familiebedrijf achterblijft bij de eis van de familiaire aandeelhouders.",
+    "comment": false
+  },
+  "statement34": {
+    "name": "statement34",
+    "statement": "Als vermogen uit het familiebedrijf vrij moet worden gemaakt om nieuwe kansen te kunnen verzilveren.",
+    "comment": false
+  },
+  "statement35": {
+    "name": "statement35",
+    "statement": "Een beslissing tot gehele of gedeeltelijke verkoop van het familiebedrijf geldt voor alle familiaire aandeelhouders.",
+    "comment": false
+  },
+  "statement36": {
+    "name": "statement36",
+    "statement": "Het familievermogen dient zoveel mogelijk bij elkaar te blijven, zodat geprofiteerd kan worden van (schaal)voordelen.",
+    "comment": false
+  },
+  "statement37": {
+    "name": "statement37",
+    "statement": "Het familievermogen gespreid wordt over verschillende investeringen en beleggingen zoals participaties in andere bedrijven, vastgoed, aandelen, etc.",
+    "comment": false
+  },
+  "statement38": {
+    "name": "statement38",
+    "statement": "Voor het bestuur en besluitvorming over dit familievermogen wordt gewerkt met een beleggingsstatuut en een investeringsstrategie.",
+    "comment": true,
+    "note_a": "Onder een beleggingsstatuut wordt verstaan het schriftelijk vastleggen van de afspraken over het beheer van het familievermogen. Hieraan gaat net als bij het familiestatuut overleg en afstemming met de familiaire eigenaren aan vooraf."
+  },
+  "statement39": {
+    "name": "statement39",
+    "statement": "Bij voorkeur vindt de advisering, begeleiding en uitvoering van de investeringsstrategie plaats door externe, deskundige partijen.",
+    "comment": true,
+    "note_a": "Als u het met deze stelling eens bent, dan is het uw wens om deskundig extern advies in te winnen over een investerings- en beleggingsstrategie.",
+    "note_b": "Daarbij kan sprake zijn dat een onafhankelijk vermogensbeheerder wordt ingeschakeld om de uitvoering op zich te nemen."
+  },
+
+  "statement40": {
+    "name": "statement40",
+    "statement": "Indien noodzakelijk, wordt het beheer van het familievermogen in handen gegeven van een vermogensbeheerder of family office.",
+    "comment": true,
+    "note_a": "Een family office houdt zich bezig met investeringsbeheer en vermogensbeheer voor een rijke familie, met als doel het vermogen effectief te laten groeien en van generatie op generatie over te dragen."
+  },
+  "statement41": {
+    "name": "statement41",
+    "statement": "Deze andere uitgangspunten vind ik ook belangrijk:",
+    "comment": false
+  },
+
+  "statement42": {
+    "name": "statement42",
+    "statement": "Het vormen van een generatiefonds, waarop volgende generaties voor specifieke uitgaven (bijvoorbeeld studie, opleiding, verzorging, ziekte, etc.) een beroep kunnen doen.",
+    "comment": true,
+    "note_a": "Onder een generatiefonds verstaan we een vermogen dat is apart gezet in een juridische entiteit, met als doel een gestort vermogen zodanig te laten groeien dat het financiële ondersteuning kan bieden voor volgende generaties."
+  },
+  "statement43": {
+    "name": "statement43",
+    "statement": "Het steunen van maatschappelijke initiatieven of goede doelen (charity).",
+    "comment": true,
+    "note_a": "Onder charity verstaan we het ondernemen van een initiatief, waarbij filantropie en sociaal welbevinden van individuen centraal staan. "
+  },
+  "statement44": {
+    "name": "statement44",
+    "statement": "Het niet investeren in niet-duurzame sectoren (bijvoorbeeld sigarettenindustrie, wapenindustrie).",
+    "comment": false
+  },
+  "statement45": {
+    "name": "statement45",
+    "statement": "Het investeren in duurzame projecten (wind-, water- en andere energiebronnen).",
+    "comment": false
+  },
+  "statement46": {
+    "name": "statement46",
+    "statement": "Het investeren in start-ups en innovatieve bedrijven (private equity of participatie).",
+    "comment": false
+  },
+  "statement47": {
+    "name": "statement47",
+    "statement": "Deze doelen vind ik ook belangrijk:",
+    "comment": false
+  },
+  "statement48": {
+    "name": "statement48",
+    "statement": "Business ventures van leden van de bedrijfsfamilie kunnen (onder voorwaarden) gefinancierd worden vanuit het familievermogen.",
+    "comment": true,
+    "note_a": "Onder een business ventures verstaan we een commercieel met de verwachting van een hoog financieel rendement tegen hogere risico's."
+  },
+  "statement49": {
+    "name": "statement49",
+    "statement": "Een business ventures mag niet concurrerend zijn voor de ondernemingen waarin de bedrijfsfamilie heeft geïnvesteerd.",
+    "comment": false
+  },
+  "statement50": {
+    "name": "statement50",
+    "statement": "Business ventures zien wij als een belangrijk hulpmiddel om het ondernemerstalent van leden van de bedrijfsfamilie te ontwikkelen.",
+    "comment": true,
+    "note_a": "Een business plan of bedrijfsplan is het schriftelijk vastleggen van een commercieel idee (product of dienst), de wijze van organiseren en de wijze uitvoering hiervan, inclusief de financiële projecties."
+  },
+  "statement51": {
+    "name": "statement51",
+    "statement": "Een business plan voor het starten van een business venture wordt beoordeeld door een externe deskundige.",
+    "comment": false
+  },
+  "statement52": {
+    "name": "statement52",
+    "statement": "Het besluit tot het financieren van een business plan wordt door alle familiaire eigenaren van het familievermogen genomen.",
+    "comment": false
+  },
+  "statement53": {
+    "name": "statement53",
+    "statement": "Deze uitgangspunten vind ik ook belangrijk:",
+    "comment": false
+  }
+}

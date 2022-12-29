@@ -1,0 +1,194 @@
+{
+  "sectionA": "Motieven",
+  "sectionB": "Visie, missie en ondernemingsdoelen",
+  "sectionC": "Ondernemingsdoelen",
+  "sectionD": "Medewerkers",
+  "sectionE": "Samenwerking met klanten en leveranciers",
+  "statement1": {
+    "answer_a": "statement1",
+    "statement": "Het familiebedrijf is beschikbaar is om mijn carrière (verder) vorm te geven.",
+    "comment": false
+  },
+  "statement2": {
+    "answer_a": "statement2",
+    "statement": "Het familiebedrijf is beschikbaar is plek waar ik mij persoonlijk verder kan ontwikkelen.",
+    "comment": false
+  },
+  "statement3": {
+    "answer_a": "statement3",
+    "statement": "Het familiebedrijf is beschikbaar voor het verder opdoen van kennis, ervaring en (management)vaardigheden.",
+    "comment": false
+  },
+  "statement4": {
+    "answer_a": "statement4",
+    "statement": "Het familiebedrijf is beschikbaar voor het onderhouden en uitbreiden van mijn zakelijke en sociale netwerk.",
+    "comment": false
+  },
+  "statement5": {
+    "answer_a": "statement5",
+    "statement": "Het familiebedrijf opent deuren die voor anderen gesloten blijven",
+    "comment": false
+  },
+  "statement6": {
+    "answer_a": "statement6",
+    "statement": "Het familiebedrijf geeft mij prestige.",
+    "comment": true,
+    "note_a": "Zakelijk succes geeft de bedrijfsfamilie aanzien. Zeker als het succes al meerdere generaties duurt. Het aanzien van de bedrijfsfamilie straalt af op de individuele familieleden.",
+    "note_b": "Het kan helpen om contacten binnen een zakelijk netwerk te ontwikkelen of kan zelfs deuren openen die voor anderen gesloten blijven."
+  },
+  "statement7": {
+    "answer_a": "statement7",
+    "statement": "Het familiebedrijf draagt bij aan de harmonie in de bedrijfsfamilie.",
+    "comment": true,
+    "note_a": "Het familiebedrijf kan een bindende factor zijn voor de individuele familieleden. Zij zetten zich allemaal actief in voor hetzelfde belang, onderlinge verschillen zijn dan minder belangrijk en de kans op conflicten kan hierdoor afnemen. Op deze wijze kan het familiebedrijf bedragen aan de harmonie. Een andere insteek kan zijn dat juist besloten wordt het familiebedrijf aan te houden in de huidige vorm. Met als belangrijkste reden, de harmonie in de bedrijfsfamilie. ",
+    "note_b": "Waarbij de kans is dat voorbij wordt gegaan aan de economische kant van het familiebedrijf. Zeker als deze economische kant niet op orde is."
+  },
+  "statement8": {
+    "answer_a": "statement8",
+    "statement": "Het familiebedrijf is een belangrijk erfgoed voor de bedrijfsfamilie",
+    "comment": false,
+    "refer": 8,
+    "note": "",
+    "type": "slider"
+  },
+  "statement9": {
+    "answer_a": "statement9",
+    "statement": "Het familiebedrijf is beschikbaar om een arbeidsinkomen te genereren.",
+    "comment": false
+  },
+  "statement10": {
+    "answer_a": "statement10",
+    "statement": "Het familiebedrijf is beschikbaar om vermogen te genereren.",
+    "comment": false
+  },
+  "statement11": {
+    "answer_a": "statement11",
+    "statement": "Dat de filosofie van de bedrijfsfamilie en de familiewaarden herkenbaar terugkomen in het familiebedrijf.",
+    "comment": true,
+    "note_a": "De familiewaarden zullen via de oprichter al in het DNA van het familiebedrijf aanwezig zijn. Maar net als in de externe omgeving zijn er tal van veranderingen in het bedrijf zelf. ",
+    "note_b": "Dat kan betekenen dat de familiewaarden naar de achtergrond zijn geraakt of dat ze vervangen zijn door nieuwe bedrijfswaarden. In de module Familiewaarden gaan we hier verder op in. Als u het met de stelling eens bent, dan wilt u dat het familiebedrijf een herkenbare 'culturele link' heeft met de bedrijfsfamilie."
+  },
+  "statement12": {
+    "answer_a": "statement12",
+    "statement": "Dat de ondernemingsdoelen in het verlengde liggen van de doelen van de bedrijfsfamilie.",
+    "comment": true,
+    "note_a": "Welke eisen kan de bedrijfsfamilie stellen aan het familiebedrijf? Kan het bedrijf, gezien haar context en markt waarin zij opereert voldoende slagvaardig zijn als zij vanuit de familie (te) strikte doelen krijgt opgelegd. Of dient volgens u het familiebedrijf altijd ten volle haar belangrijkste stakeholder te dienen?"
+  },
+  "statement13": {
+    "answer_a": "statement13",
+    "statement": "Dat de leden van de bedrijfsfamilie zich opstellen als verantwoordelijke eigenaren van het familiebedrijf.",
+    "comment": true,
+    "note_a": "Onder verantwoordelijke eigenaren wordt in dit kader verstaan dat het belang van de bedrijfscontinuïteit voorop staat. Er dient bijvoorbeeld door de eigenaren voldoende geïnvesteerd te worden om marktconform te kunnen opereren en relevant voor marktpartijen te blijven."
+  },
+  "statement14": {
+    "answer_a": "statement14",
+    "statement": "Dat leden van de bedrijfsfamilie en medewerkers goed op de hoogte zijn van de visie en missie van het familiebedrijf.",
+    "comment": true,
+    "note_a": "Als u het eens bent met deze stelling, pleit u ervoor dat de visie en missie steeds uitgedragen worden door het bedrijfsmanagement en de familiaire aandeelhouders om ervoor te zorgen dat iedereen betrokken en gecommitteerd blijft."
+  },
+  "statement15": {
+    "answer_a": "statement15",
+    "statement": "Dat leden van de bedrijfsfamilie en medewerkers goed op de hoogte zijn van de ondernemingsdoelen en strategie.",
+    "comment": true,
+    "note_a": "Om te kunnen handelen in het bedrijfsbelang, is informatie over wat past en niet past binnen de ondernemingsdoelen en -strategie van groot belang.",
+    "note_b": "Dat kan betekenen dat zowel het management, de medewerkers en de familieleden zich actief inspannen om de ondernemingsdoelen en -strategie te doorgronden, maar ook de verplichting van het bedrijfsmanagement om de ondernemingsdoelen en -strategie te blijven communiceren en herhalen."
+  },
+  "statement16": {
+    "answer_a": "statement16",
+    "statement": "Streven naar continuïteit.",
+    "comment": true,
+    "note_a": "Continuïteit kan in dit kader breed worden opgevat: zowel investeren in relevantie en onderscheidendheid van het familiebedrijf als in bescherming tegen bedrijfscalamiteiten."
+  },
+  "statement17": {
+    "answer_a": "statement17",
+    "statement": "Streven naar een marktconforme winst/rentabiliteit.",
+    "comment": true,
+    "note_a": "Als u het eens bent met de stelling, is uw uitgangspunt dat de bedrijfsprestaties, gemeten in financiële termen zoals winst of rentabiliteit, gelijk dient te zijn aan de prestaties van branchegenoten. ",
+    "note_b": "Dit kan evenwel ook betekenen dat dezelfde managementmethodes of bedrijfsrisico's genomen dienen te worden als deze branchegenoten.",
+    "note_c": "De vraag is of dit dan past bij de filosofie van de bedrijfsfamilie en de familiewaarden."
+  },
+  "statement18": {
+    "answer_a": "statement18",
+    "statement": "Streven naar groei/expansie.",
+    "comment": true,
+    "note_a": "Met expansie wordt hier bedoeld schaalvergroting, bijvoorbeeld door overname van andere bedrijven of internationalisatie door meer export c.q. het openen van buitenlandse vestigingen."
+  },
+  "statement19": {
+    "answer_a": "statement19",
+    "statement": "Streven naar een aantrekkelijk werkgeverschap.",
+    "comment": false
+  },
+  "statement20": {
+    "answer_a": "statement20",
+    "statement": "Streven naar (behoud van) werkgelegenheid.",
+    "comment": true,
+    "note_a": "Als u het eens bent met deze stelling, pleit u voor het belang van de medewerkers. Ook als het economisch tij tegenzit.",
+    "note_b": "Bijvoorbeeld door het binden van de medewerkers door scholing en persoonlijke ontwikkeling."
+  },
+  "statement21": {
+    "answer_a": "statement21",
+    "statement": "Streven naar vernieuwing en innovatie.",
+    "comment": true,
+    "note_a": "Om marktconform te blijven dient ieder bedrijf in meer of mindere mate bezig te zijn met vernieuwing en innovatie. ",
+    "note_b": "De vraag is hierbij in welke mate u vindt dat het familiebedrijf koploper dient te zijn (met de bijbehorende hoge risico's) of dat het familiebedrijf meer een volger dient te zijn (met lagere risico's)."
+  },
+  "statement22": {
+    "answer_a": "statement22",
+    "statement": "Streven naar een duurzame, milieubewuste operatie.",
+    "comment": true,
+    "note_a": "Duurzaam ondernemen wordt steeds belangrijker, zowel in de ogen van de consument als van de overheid. In hoeverre vindt u dat het familiebedrijf hieraan aandacht moet besteden.",
+    "note_b": "Bijvoorbeeld door als koploper te fungeren of juist door andere branchegenoten te volgen."
+  },
+  "statement23": {
+    "answer_a": "statement23",
+    "statement": "Streven naar een positieve bijdrage aan de maatschappij.",
+    "comment": false
+  },
+  "statement24": {
+    "answer_a": "statement24",
+    "statement": "Dat de leden van de bedrijfsfamilie zich gedragen conform de kern- en familiewaarden.",
+    "comment": false
+  },
+  "statement25": {
+    "answer_a": "statement25",
+    "statement": "Dat medewerkers worden gestimuleerd in hun persoonlijke ontwikkeling en arbeidsmobiliteit.",
+    "comment": false
+  },
+  "statement26": {
+    "answer_a": "statement26",
+    "statement": "Dat sprake is van open communicatie, respect en vertrouwen.",
+    "comment": false
+  },
+  "statement27": {
+    "answer_a": "statement27",
+    "statement": "Dat medewerkers worden gestimuleerd om eigen verantwoordelijkheid te nemen en zelfstandig initiatieven te ontplooien.",
+    "comment": false
+  },
+  "statement28": {
+    "answer_a": "statement28",
+    "statement": "Dat rekening wordt gehouden met de persoonlijke omstandigheden van medewerkers en waar nodig (financiële) support wordt geboden.",
+    "comment": false
+  },
+  "statement29": {
+    "answer_a": "statement29",
+    "statement": "Dat medewerkers, waar mogelijk, kunnen beschikken over een pensioenregeling.",
+    "comment": false
+  },
+  "statement30": {
+    "answer_a": "statement30",
+    "statement": "Dat klanten en leveranciers de kernwaarden van het familiebedrijf herkennen en ervaren in het gedrag van de leden van de bedrijfsfamilie en de medewerkers",
+    "comment": false
+  },
+  "statement31": {
+    "answer_a": "statement31",
+    "statement": "Dat vaste klanten en leveranciers ervaren dat wij een lange termijnrelatie willen opbouwen.",
+    "comment": false
+  },
+  "statement32": {
+    "answer_a": "statement32",
+    "statement": "Dat vaste klanten en leveranciers ervaren dat wij openstaan om in co-creatie tot nieuwe activiteiten, producten en diensten te komen.",
+    "comment": true,
+    "note_a": "Onder co-creatie verstaan we in dit verband: een vorm van samenwerking, waarbij alle deelnemers invloed hebben op het proces en het resultaat van dit proces, zoals een plan, advies of product. Kenmerken van co-creatie zijn dialoog, ‘common ground’, enthousiasme, daadkracht en focus op resultaat.",
+    "note_b": "Voorwaarden voor succesvolle co-creatie zijn gelijkwaardigheid van de deelnemers, wederkerigheid, openheid en vertrouwen."
+  }
+}

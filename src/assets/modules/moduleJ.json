@@ -1,0 +1,116 @@
+{
+  "sectionA": "Rol van de extern adviseur",
+  "sectionB": "Takenpakket",
+  "sectionC": "Vorm van extern advies",
+  "statement1": {
+    "name": "statement1",
+    "statement": "Informatiebron en raadgever voor directie en bedrijfsfamilie.",
+    "comment": true
+  },
+  "statement2": {
+    "name": "statement2",
+    "statement": "Sparringpartner bij het opstellen en uitvoeren van het strategisch plan.",
+    "comment": true
+  },
+  "statement3": {
+    "name": "statement3",
+    "statement": "Sparringpartner bij het (verder) professionaliseren van de organisatie.",
+    "comment": true
+  },
+  "statement4": {
+    "name": "statement4",
+    "statement": "Mentor voor de volgende generatie in het familiebedrijf.",
+    "comment": true
+  },
+  "statement5": {
+    "name": "statement5",
+    "statement": "Klankbord voor de huidige algemeen directeur of directie.",
+    "comment": true
+  },
+  "statement6": {
+    "name": "statement6",
+    "statement": "Vervangend bestuurder bij een situatie van noodopvolging.",
+    "comment": true
+  },
+  "statement7": {
+    "name": "statement7",
+    "statement": "Netwerker voor het familiebedrijf binnen de branche.",
+    "comment": true
+  },
+  "statement8": {
+    "name": "statement8",
+    "statement": "Toezichthouder met (wettelijke) controlerende taken.",
+    "comment": true
+  },
+  "statement9": {
+    "name": "statement9",
+    "statement": "Bewaken van de balans tussen familie- en bedrijfsbelangen.",
+    "comment": false
+  },
+  "statement10": {
+    "name": "statement10",
+    "statement": "Bewaken van de balans tussen bedrijfscontinuïteit en korte termijn acties.",
+    "comment": false
+  },
+  "statement11": {
+    "name": "statement11",
+    "statement": "Stimuleren van het streven naar objectieve besluitvorming.",
+    "comment": false
+  },
+  "statement12": {
+    "name": "statement12",
+    "statement": "Bevorderen van een professioneel familie- en bedrijfsbestuur.",
+    "comment": false
+  },
+  "statement13": {
+    "name": "statement13",
+    "statement": "Bevorderen van heldere eigendoms- en zeggenschapsverhoudingen.",
+    "comment": false
+  },
+  "statement14": {
+    "name": "statement14",
+    "statement": "Signaleren en waar nodig bespreekbaar maken van 'emotionele barrières' en 'sluimerende conflicten' binnen de bedrijfsfamilie of het familiebedrijf.",
+    "comment": false
+  },
+  "statement15": {
+    "name": "statement15",
+    "statement": "Mediator bij conflicten in het bedrijfsfamilie en het familiebedrijf.",
+    "comment": false
+  },
+  "statement16": {
+    "name": "statement16",
+    "statement": "Bespreken en voorbereiden van de opvolging in het directieteam.",
+    "comment": false
+  },
+  "statement17": {
+    "name": "statement17",
+    "statement": "Regisseur van het opvolgingsproces.",
+    "comment": false
+  },
+  "statement18": {
+    "name": "statement18",
+    "statement": "Benoemen, beoordelen, belonen, ontslaan van directieleden.",
+    "comment": false
+  },
+  "statement19": {
+    "name": "statement19",
+    "statement": "Bevorderen van ontwikkeling van directieleden tot een (h)echt team.",
+    "comment": false
+  },
+  "statement20": {
+    "name": "statement20",
+    "statement": "Goedkeuring verlenen namens de aandeelhouders aan belangrijke, strategische besluiten door het directieteam.",
+    "comment": false
+  },
+  "statement21": {
+    "name": "statement21",
+    "statement": "Welke vorm van extern advies heeft uw voorkeur?",
+    "comment": true,
+    "note_a": "Een Raad van Advies zonder statutaire status geeft de directie en/of familiaire aandeelhouders advies, zonder dat sprake is van verdere invloed op de besluitvorming door de familiaire aandeelhouders. ",
+    "note_b": "Een Raad van Commissarissen is wettelijk verplicht bij structuurvenootschappen. Deze Raad van Commissarissen heeft ook wettelijke rechten en plichten en kan dus van grote invloed zijn op de besluitvorming van directie en familiaire aandeelhouders.",
+    "nrOptions": 3,
+    "answer_a": "Externe adviseurs die afzonderlijk geraadpleegd worden, zonder dat sprake is van een vaste vorm.",
+    "answer_b": "Externe adviseurs die gezamenlijk geraadpleegd worden, samengebracht in een Raad van Advies (zonder statutaire status).",
+    "answer_c": "Externe adviseurs die zitting krijgen in een Raad van Commissarissen (met volledige wettelijke bevoegdheden)."
+  }
+}
