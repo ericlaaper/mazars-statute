@@ -40,7 +40,7 @@
       :statText="statText.statement17"
       v-if="visData.statement_17"
     />
-    <RadioGrade
+    <RadioEO
       v-if="visData.statement_17"
       :stat="statText.statement17"
       v-model="question_d"
@@ -52,7 +52,7 @@
       :statText="statText.statement18"
       v-if="visData.statement_18"
     />
-    <RadioGrade
+    <RadioEO
       v-if="visData.statement_18"
       :stat="statText.statement18"
       v-model="question_e"
@@ -64,7 +64,7 @@
       :statText="statText.statement19"
       v-if="visData.statement_19"
     />
-    <RadioGrade
+    <RadioEO
       v-if="visData.statement_19"
       :stat="statText.statement19"
       v-model="question_f"
@@ -76,7 +76,7 @@
       :statText="statText.statement20"
       v-if="visData.statement_20"
     />
-    <RadioGrade
+    <RadioEO
       v-if="visData.statement_20"
       :stat="statText.statement20"
       v-model="question_g"
@@ -88,7 +88,7 @@
       :statText="statText.statement21"
       v-if="visData.statement_21"
     />
-    <RadioGrade
+    <RadioEO
       v-if="visData.statement_21"
       :stat="statText.statement21"
       v-model="question_h"
@@ -100,7 +100,7 @@
       :statText="statText.statement22"
       v-if="visData.statement_22"
     />
-    <RadioGrade
+    <RadioEO
       v-if="visData.statement_22"
       :stat="statText.statement22"
       v-model="question_i"
@@ -112,7 +112,7 @@
       :statText="statText.statement23"
       v-if="visData.statement_23"
     />
-    <RadioGrade
+    <RadioEO
       v-if="visData.statement_23"
       :stat="statText.statement23"
       v-model="question_j"

@@ -30,6 +30,9 @@ export const state = {
     question_f: "",
     question_g: "",
     question_h: "",
+    data_a: "",
+    data_b: "",
+    data_c: "",
     ready_a: false,
     ready_b: false,
     ready_c: false,
@@ -91,6 +94,15 @@ export const mutations = {
   },
   update_ready_f(state, ready_f) {
     state.moduleData.ready_f = ready_f;
+  },
+  update_data_a(state, data_a) {
+    state.moduleData.data_a = data_a;
+  },
+  update_data_b(state, data_b) {
+    state.moduleData.data_b = data_b;
+  },
+  update_data_c(state, data_c) {
+    state.moduleData.data_c = data_c;
   },
   update_sl_a(state, sl_a) {
     state.moduleData.sl_a = sl_a;
@@ -221,6 +233,15 @@ export const getters = {
   },
   ready_f: (state) => {
     return state.moduleData.ready_f;
+  },
+  data_a: (state) => {
+    return state.moduleData.data_a;
+  },
+  data_b: (state) => {
+    return state.moduleData.data_b;
+  },
+  data_c: (state) => {
+    return state.moduleData.data_c;
   },
   sl_a: (state) => {
     return state.moduleData.sl_a;

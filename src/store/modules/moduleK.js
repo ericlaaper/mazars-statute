@@ -5,6 +5,11 @@ export const namespaced = true;
 export const state = {
   moduleData: {
     id: 0,
+    data_a: "",
+    data_b: "",
+    data_c: "",
+    data_d: "",
+    data_e: "",
     sl_a: 0,
     sl_b: 0,
     sl_c: 0,
@@ -100,6 +105,21 @@ export const mutations = {
   },
   update_ready_g(state, ready_g) {
     state.moduleData.ready_g = ready_g;
+  },
+  update_data_a(state, data_a) {
+    state.moduleData.data_a = data_a;
+  },
+  update_data_b(state, data_b) {
+    state.moduleData.data_b = data_b;
+  },
+  update_data_c(state, data_c) {
+    state.moduleData.data_c = data_c;
+  },
+  update_data_d(state, data_d) {
+    state.moduleData.data_d = data_d;
+  },
+  update_data_e(state, data_e) {
+    state.moduleData.data_e = data_e;
   },
   update_sl_a(state, sl_a) {
     state.moduleData.sl_a = sl_a;
@@ -254,6 +274,21 @@ export const getters = {
   },
   ready_i: (state) => {
     return state.moduleData.ready_i;
+  },
+  data_a: (state) => {
+    return state.moduleData.data_a;
+  },
+  data_b: (state) => {
+    return state.moduleData.data_b;
+  },
+  data_c: (state) => {
+    return state.moduleData.data_c;
+  },
+  data_d: (state) => {
+    return state.moduleData.data_d;
+  },
+  data_e: (state) => {
+    return state.moduleData.data_e;
   },
   sl_a: (state) => {
     return state.moduleData.sl_a;

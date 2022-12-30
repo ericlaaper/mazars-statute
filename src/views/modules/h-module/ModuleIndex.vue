@@ -351,7 +351,7 @@ export default {
         !this.visData.section_2 &&
         !this.visData.section_1
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 7);
+        await this.$store.commit("moduleH/stepDownNr", 7);
       } else if (
         this.moduleData.step === 7 &&
         !this.visData.section_6 &&
@@ -361,7 +361,7 @@ export default {
         !this.visData.section_2 &&
         this.visData.section_1
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 6);
+        await this.$store.commit("moduleH/stepDownNr", 6);
       } else if (
         this.moduleData.step === 7 &&
         !this.visData.section_6 &&
@@ -370,7 +370,7 @@ export default {
         !this.visData.section_3 &&
         this.visData.section_2
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 5);
+        await this.$store.commit("moduleH/stepDownNr", 5);
       } else if (
         this.moduleData.step === 7 &&
         !this.visData.section_6 &&
@@ -378,22 +378,22 @@ export default {
         !this.visData.section_4 &&
         this.visData.section_3
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 4);
+        await this.$store.commit("moduleH/stepDownNr", 4);
       } else if (
         this.moduleData.step === 7 &&
         !this.visData.section_6 &&
         !this.visData.section_5 &&
         this.visData.section_4
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 3);
+        await this.$store.commit("moduleH/stepDownNr", 3);
       } else if (
         this.moduleData.step === 7 &&
         !this.visData.section_6 &&
         this.visData.section_5
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 2);
+        await this.$store.commit("moduleH/stepDownNr", 2);
       } else if (this.moduleData.step === 7 && this.visData.section_6) {
-        await this.$store.commit("moduleB/stepDownNr", 1);
+        await this.$store.commit("moduleH/stepDownNr", 1);
       } else if (
         this.moduleData.step === 6 &&
         !this.visData.section_5 &&
@@ -402,7 +402,7 @@ export default {
         !this.visData.section_2 &&
         !this.visData.section_1
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 6);
+        await this.$store.commit("moduleH/stepDownNr", 6);
       } else if (
         this.moduleData.step === 6 &&
         !this.visData.section_5 &&
@@ -411,7 +411,7 @@ export default {
         !this.visData.section_2 &&
         this.visData.section_1
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 5);
+        await this.$store.commit("moduleH/stepDownNr", 5);
       } else if (
         this.moduleData.step === 6 &&
         !this.visData.section_5 &&
@@ -419,22 +419,22 @@ export default {
         !this.visData.section_3 &&
         this.visData.section_2
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 4);
+        await this.$store.commit("moduleH/stepDownNr", 4);
       } else if (
         this.moduleData.step === 6 &&
         !this.visData.section_5 &&
         !this.visData.section_4 &&
         this.visData.section_3
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 3);
+        await this.$store.commit("moduleH/stepDownNr", 3);
       } else if (
         this.moduleData.step === 6 &&
         !this.visData.section_5 &&
         this.visData.section_4
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 2);
+        await this.$store.commit("moduleH/stepDownNr", 2);
       } else if (this.moduleData.step === 6 && this.visData.section_5) {
-        await this.$store.commit("moduleB/stepDownNr", 1);
+        await this.$store.commit("moduleH/stepDownNr", 1);
       } else if (
         this.moduleData.step === 5 &&
         !this.visData.section_4 &&
@@ -442,7 +442,7 @@ export default {
         !this.visData.section_2 &&
         !this.visData.section_1
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 5);
+        await this.$store.commit("moduleH/stepDownNr", 5);
       } else if (
         this.moduleData.step === 5 &&
         !this.visData.section_4 &&
@@ -450,64 +450,64 @@ export default {
         !this.visData.section_2 &&
         this.visData.section_1
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 4);
+        await this.$store.commit("moduleH/stepDownNr", 4);
       } else if (
         this.moduleData.step === 5 &&
         !this.visData.section_4 &&
         !this.visData.section_3 &&
         this.visData.section_2
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 3);
+        await this.$store.commit("moduleH/stepDownNr", 3);
       } else if (
         this.moduleData.step === 5 &&
         !this.visData.section_4 &&
         this.visData.section_3
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 2);
+        await this.$store.commit("moduleH/stepDownNr", 2);
       } else if (this.moduleData.step === 5 && this.visData.section_4) {
-        await this.$store.commit("moduleB/stepDownNr", 1);
+        await this.$store.commit("moduleH/stepDownNr", 1);
       } else if (
         this.moduleData.step === 4 &&
         !this.visData.section_3 &&
         !this.visData.section_2 &&
         !this.visData.section_1
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 4);
+        await this.$store.commit("moduleH/stepDownNr", 4);
       } else if (
         this.moduleData.step === 4 &&
         !this.visData.section_3 &&
         !this.visData.section_2 &&
         this.visData.section_1
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 3);
+        await this.$store.commit("moduleH/stepDownNr", 3);
       } else if (
         this.moduleData.step === 4 &&
         !this.visData.section_3 &&
         this.visData.section_2
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 2);
+        await this.$store.commit("moduleH/stepDownNr", 2);
       } else if (this.moduleData.step === 4 && this.visData.section_3) {
-        await this.$store.commit("moduleB/stepDownNr", 1);
+        await this.$store.commit("moduleH/stepDownNr", 1);
       } else if (
         this.moduleData.step === 3 &&
         !this.visData.section_2 &&
         !this.visData.section_1
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 3);
+        await this.$store.commit("moduleH/stepDownNr", 3);
       } else if (
         this.moduleData.step === 3 &&
         !this.visData.section_2 &&
         this.visData.section_1
       ) {
-        await this.$store.commit("moduleB/stepDownNr", 2);
+        await this.$store.commit("moduleH/stepDownNr", 2);
       } else if (this.moduleData.step === 3 && this.visData.section_2) {
-        await this.$store.commit("moduleB/stepDownNr", 1);
+        await this.$store.commit("moduleH/stepDownNr", 1);
       } else if (this.moduleData.step === 2 && !this.visData.section_1) {
-        await this.$store.commit("moduleB/stepDownNr", 2);
+        await this.$store.commit("moduleH/stepDownNr", 2);
       } else if (this.moduleData.step === 2 && this.visData.section_1) {
-        await this.$store.commit("moduleB/stepDownNr", 1);
+        await this.$store.commit("moduleH/stepDownNr", 1);
       } else if (this.moduleData.step === 1) {
-        await this.$store.commit("moduleB/stepDownNr", 1);
+        await this.$store.commit("moduleH/stepDownNr", 1);
       }
     },
     stopThis() {
