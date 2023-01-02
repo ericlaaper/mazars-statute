@@ -7,7 +7,7 @@
     <RadioJN
       v-if="visData.statement_20"
       :stat="statText.statement20"
-      v-model="l"
+      v-model="question_l"
       rules="required"
       :value="question_l"
     />
