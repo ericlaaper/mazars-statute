@@ -1,7 +1,7 @@
 <template>
   <div class="text-center mt-15">
     <v-btn color="primary" x-large @click="$emit('onClick')">
-      <slot>Rapportage</slot>
+      <slot>BEWAAR</slot>
     </v-btn>
   </div>
 </template>

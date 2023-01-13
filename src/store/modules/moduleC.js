@@ -35,6 +35,7 @@ export const state = {
     ready_a: false,
     ready_b: false,
     ready_c: false,
+    finished: false,
     step: 0,
   },
   loading: false,
@@ -81,6 +82,9 @@ export const mutations = {
   },
   update_ready_c(state, ready_c) {
     state.moduleData.ready_c = ready_c;
+  },
+  update_finished(state, finished) {
+    state.moduleData.finished = finished;
   },
   update_question_a(state, question_a) {
     state.moduleData.question_a = question_a;

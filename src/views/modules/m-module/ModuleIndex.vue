@@ -94,7 +94,7 @@
                 <v-row class="mt-10 justify-center">
                   <ErrorMessage v-if="invalid && validated" />
                 </v-row>
-                <v-row class="mt-5">
+                <v-row class="mt-5" v-if="!activateEnd">
                   <ButtonStop :on-click="stopThis" />
                   <v-spacer />
                   <ButtonBackStart
@@ -661,7 +661,9 @@ export default {
     backStart() {
       this.$store.commit("moduleM/update_step", 0);
     },
-    getReport() {
+    async getReport() {
+      await this.$store.commit("moduleM/update_finished", true);
+      await this.$store.dispatch("moduleM/setModulesData");
       const payload = {
         email: this.email,
       };
