@@ -9,15 +9,14 @@
   "statement1": {
     "name": "statement1",
     "statement": "Als leden van de bedrijfsfamilie zorgen wij voor elkaar.",
-    "comment": true,
-    "note_a": "Veel bedrijfsfamilies zijn welvarende families, waarbij de familieleden zich een bepaald niveau van levensstijl en -onderhoud kunnen veroorloven vanuit de opbrengsten van het familiebedrijf.",
-    "note_b": "Dit betekent ook een zekere sociale status en reputatie die past bij het familiebedrijf. Hiervoor dient echter wel de financiële ruimte te zijn."
+    "comment": false
   },
   "statement2": {
     "name": "statement2",
     "statement": "Ieder lid van de bedrijfsfamilie kan zich een bepaald niveau van levensstijl veroorloven.",
     "comment": true,
-    "note_a": "Als u het eens bent met deze stelling, dan is uw uitgangspunt dat de bedrijfsfamilie dient te zorgen voor de familieleden die tegenslag kennen. Een consequentie van geen ondersteuning bieden kan zijn dat een individueel familielid niet meer kan voldoen aan een bepaalde mate van levensstandaard, bijvoorbeeld door hoge kosten van medische hulp."
+    "note_a": "Veel bedrijfsfamilies zijn welvarende families, waarbij de familieleden zich een bepaald niveau van levensstijl en -onderhoud kunnen veroorloven vanuit de opbrengsten van het familiebedrijf.",
+    "note_b": "Dit betekent ook een zekere sociale status en reputatie die past bij het familiebedrijf. Hiervoor dient echter wel de financiële ruimte te zijn."
   },
   "statement3": {
     "name": "statement3",

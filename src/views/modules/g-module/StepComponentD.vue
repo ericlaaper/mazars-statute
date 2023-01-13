@@ -57,7 +57,7 @@
     />
     <AreaValidation
       v-if="visData.statement_24"
-      label="Financierinsgmogelijkheden"
+      label="Financieringsmogelijkheden"
       rules="max:150"
       v-model="data_d"
     />

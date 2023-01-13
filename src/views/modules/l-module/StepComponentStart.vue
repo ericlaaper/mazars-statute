@@ -2,7 +2,7 @@
   <div class="pt-2">
     <br />
     <vimeo-player
-      :video-id="vimeo.module_c"
+      :video-id="vimeo.module_l"
       class="embed-container"
       :options="{ responsive: true }"
     ></vimeo-player>

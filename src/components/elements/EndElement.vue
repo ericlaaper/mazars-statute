@@ -1,10 +1,11 @@
 <template>
   <div>
-    <h3 class="primary--text mt-15">Uw rapportage is onderweg.</h3>
+    <h3 class="primary--text mt-15 ml-8">Uw rapportage is onderweg.</h3>
     <br />
-    U kunt nu direct verder gaan met een eventuele volgende module of nu stoppen
-    en eventueel later verder gaan.
-
+    <div class="ml-8 mr-8">
+      U kunt nu direct verder gaan met een eventuele volgende module of nu
+      stoppen en eventueel later verder gaan.
+    </div>
     <v-row no-gutters class="mt-5">
       <v-col cols="1" />
       <v-col cols="4">

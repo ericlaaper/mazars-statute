@@ -11,14 +11,14 @@
   "sectionA": {
     "header": "Primaire arbeidsvoorwaarden",
     "text_a": "In dit onderdeel vragen wij uw mening over de primaire arbeidsvoorwaarden voor de leden van de bedrijfsfamilie die in het familiebedrijf werken. De aandacht gaat uit naar hoe de salariëring zich kan verhouden ten opzichte van bijvoorbeeld de medewerkers. Wij vragen u aan te geven in welke mate u de onderstaande uitgangspunten belangrijk vindt. Heeft u zelf ook andere uitgangspunten, dan kunt u dit vermelden bij de laatste vraag.",
-    "text_b": "In welke mate vindt u de volgende uitgangspunten belangrijk:",
+    "text_b": "In welke mate vindt u de volgende uitgangspunten belangrijk? U kunt gebruik maken van rapportcijfers (1 = geheel niet belangrijk, 10 = zeer belangrijk).",
     "text_c": "",
     "text_d": ""
   },
   "sectionB": {
     "header": "Secundaire arbeidsvoorwaarden",
     "text_a": "Naast de primaire arbeidsvoorwaarden zijn er ook secundaire arbeidsvoorwaarden zoals pensioen, dekking tegen arbeidsongeschiktheid en overlijden, mobiliteit en opleiding. Wij vragen u aan te geven in welke mate u de onderstaande uitgangspunten belangrijk vindt. Heeft u zelf ook andere uitgangspunten, dan kunt u dit vermelden bij de laatste vraag.",
-    "text_b": "In welke mate vindt u de volgende uitgangspunten belangrijk:",
+    "text_b": "In welke mate vindt u de volgende uitgangspunten belangrijk? U kunt gebruik maken van rapportcijfers (1 = geheel niet belangrijk, 10 = zeer belangrijk).",
     "text_c": "",
     "text_d": ""
   },
@@ -26,7 +26,7 @@
     "header": "Variabele beloning",
     "text_a": "Een belangrijk vraagstuk is de variabele beloning. Dient er een direct verband te zijn tussen de behaalde bedrijfsprestaties en de beloning? Zo ja, is dit voor zowel leden van de bedrijfsfamilie als medewerkers beschikbaar en welke afspraken worden hierover gemaakt?",
     "text_b": "Wij vragen u aan te geven in welke mate u de onderstaande uitgangspunten belangrijk vindt. Heeft u zelf ook andere uitgangspunten, dan kunt u dit vermelden bij de laatste vraag.",
-    "text_c": "In welke mate vindt u de volgende uitgangspunten belangrijk:",
+    "text_c": "In welke mate vindt u de volgende uitgangspunten belangrijk? U kunt gebruik maken van rapportcijfers (1 = geheel niet belangrijk, 10 = zeer belangrijk).",
     "text_d": ""
   },
   "sectionD": {

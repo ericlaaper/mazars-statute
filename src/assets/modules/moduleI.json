@@ -66,7 +66,7 @@
     "statement": "Vanuit het strategisch of business plan zijn Kritische Succes Factoren bepaald en vertaald naar de organisatie in de vorm van Kritische Prestatie Indicatoren (KPI's).",
     "comment": true,
     "note_a": "Met een kritische succesfactor (KSF) geeft men aan welke activiteiten in een organisatie essentieel zijn voor het succes van de organisatie op langere termijn. Het woord factor moet hier worden opgevat als een randvoorwaarde. Dus een bepaalde KSF hoeft op dit moment nog helemaal geen succes te zijn (maar zou het op termijn wel moeten worden).",
-    "note_b": "Een KSF heeft één of meer Kritische Prestatie Indicatoren (KPI) nodig om meetbaar te worden gemaakt. Een KPI is de vertaling van een opertionele doelstelling en geeft het management een indicatie of de organisatie in de juiste richting ontwikkelt."
+    "note_b": "Een KSF heeft één of meer Kritische Prestatie Indicatoren (KPI) nodig om meetbaar te worden gemaakt. Een KPI is de vertaling van een operationele doelstelling en geeft het management een indicatie of de organisatie in de juiste richting ontwikkelt."
   },
   "statement12": {
     "name": "statement12",
@@ -125,7 +125,7 @@
   },
   "statement23": {
     "name": "statement23",
-    "statement": "De wensen van de familiaire eigenaar of eigenaren over de leiding, eigendom en zeggenschap dient in deze situatie op papier te staan.",
+    "statement": "De wensen van de familiaire eigenaar of eigenaren over de leiding, eigendom en zeggenschap in de situatie dat de leiding valt, dienen op papier te staan.",
     "comment": false
   },
   "statement24": {

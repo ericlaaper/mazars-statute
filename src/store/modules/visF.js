@@ -27,7 +27,7 @@ export const actions = {
   async getVisData({ commit }, payload) {
     commit("SET_LOADING", true);
     try {
-      const response = await VisService.getVisA(payload);
+      const response = await VisService.getVisF(payload);
       commit("SET_DATA", response.data.data);
       commit("SET_LOADING", false);
       commit("SET_ERROR", response);

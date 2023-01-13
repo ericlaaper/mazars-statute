@@ -5,6 +5,7 @@ import LoginFamily from "@/views/login/FamilyCode.vue";
 import IntroPage from "@/views/login/IntroPage.vue";
 import LoginEmail from "@/views/login/EmailPage.vue";
 import LoginCode from "@/views/login/CodePage.vue";
+import store from "@/store";
 
 const indexA = () =>
   import(
@@ -103,76 +104,181 @@ const routes = [
     path: "/modules",
     name: "modules",
     component: ModulesView,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/module-a",
     name: "module_a",
     component: indexA,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/module-b",
     name: "module_b",
     component: indexB,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/module-c",
     name: "module_c",
     component: indexC,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/module-d",
     name: "module_d",
     component: indexD,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/module-e",
     name: "module_e",
     component: indexE,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/module-f",
     name: "module_f",
     component: indexF,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/module-g",
     name: "module_g",
     component: indexG,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/module-h",
     name: "module_h",
     component: indexH,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/module-i",
     name: "module_i",
     component: indexI,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/module-j",
     name: "module_j",
     component: indexJ,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/module-k",
     name: "module_k",
     component: indexK,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/module-l",
     name: "module_l",
     component: indexL,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/module-m",
     name: "module_m",
     component: indexM,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/module-n",
     name: "module_n",
     component: indexN,
+    beforeEnter(to, from, next) {
+      if (store.state.auth.token) {
+        next();
+      } else {
+        next("/");
+      }
+    },
   },
   {
     path: "/about",
@@ -188,6 +294,13 @@ const routes = [
 const router = new VueRouter({
   mode: "history",
   base: process.env.BASE_URL,
+  scrollBehavior(to, from, savedPosition) {
+    if (savedPosition) {
+      return savedPosition;
+    } else {
+      return { x: 0, y: 0 };
+    }
+  },
   routes,
 });
 

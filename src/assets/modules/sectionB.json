@@ -11,7 +11,7 @@
   "sectionA": {
     "header": "Doelen van het familieoverleg",
     "text_a": "In het familieoverleg komen de leden van de bedrijfsfamilie samen om periodiek van gedachten te wisselen over het familiebedrijf. Belangrijk is dan om vast te stellen met welke doelen de bedrijfsfamilie het familieoverleg voert. In dit onderdeel vragen wij u aan te geven in welke mate bepaalde doelen voor u belangrijk zijn. Zijn er doelen die niet vermeld worden, dan kunt u dat bij de laatste vraag vermelden.",
-    "text_b": "In welke mate vindt u de volgende doelen van het familieoverleg belangrijk:",
+    "text_b": "In welke mate vindt u de volgende doelen van het familieoverleg belangrijk? U kunt gebruik maken van rapportcijfers (1 = geheel niet belangrijk, 10 = zeer belangrijk)",
     "text_c": "",
     "text_d": ""
   },
@@ -24,8 +24,8 @@
   },
   "sectionC": {
     "header": "Besluitvorming",
-    "text_a": "Het familieoverleg zal ook besluiten over het familiebedrijf. In dit onderdeel vragen wij u aan te geven hoe deze besluitvorming tot stand dient te komen. Hoe verhouden de familiaire eigenaren van het familiebedrijf zich ten opzichte van de andere leden van de bedrijfsfamilie?",
-    "text_b": "In welke mate vindt u de volgende uitgangspunten belangrijk:",
+    "text_a": "Het familieoverleg zal ook besluiten nemen over het familiebedrijf. In dit onderdeel vragen wij u aan te geven hoe deze besluitvorming tot stand dient te komen. Hoe verhouden de familiaire eigenaren van het familiebedrijf zich ten opzichte van de andere leden van de bedrijfsfamilie?",
+    "text_b": "In welke mate vindt u de volgende uitgangspunten belangrijk? U kunt gebruik maken van rapportcijfers (1 = geheel niet belangrijk, 10 = zeer belangrijk).",
     "text_c": "",
     "text_d": ""
   },
@@ -39,13 +39,13 @@
   "sectionE": {
     "header": "Organisatie familieoverleg",
     "text_a": "Het familieoverleg vraagt om een goede voorbereiding en begeleiding om tot een professionele besluitvorming te komen. Om deze reden vragen wij u aan te geven hoe u de organisatie van het familieoverleg vorm zou willen geven. ",
-    "text_b": "Welke uitgangspunten vindt u belangrijk?",
+    "text_b": "Welke uitgangspunten vindt u belangrijk? U kunt gebruik maken van rapportcijfers (1 = geheel niet belangrijk, 10 = zeer belangrijk).",
     "text_c": "",
     "text_d": ""
   },
   "sectionF": {
     "header": "Familiegecontroleerde onderneming",
-    "text_a": "In welke mate vindt u de volgende uitgangspunten belangrijk?",
+    "text_a": "In welke mate vindt u de volgende uitgangspunten belangrijk? U kunt gebruik maken van rapportcijfers (1 = geheel niet belangrijk, 10 = zeer belangrijk).",
     "text_b": "",
     "text_c": "",
     "text_d": ""

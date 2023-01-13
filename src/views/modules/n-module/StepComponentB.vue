@@ -1,5 +1,5 @@
 <template>
-  <div class="ml-9 mr-9 pt-70">
+  <div class="ml-9 mr-9 pt-10">
     <StatementText :statText="statText.statement7" v-if="visData.statement_7" />
     <RadioGrade
       v-if="visData.statement_7"
