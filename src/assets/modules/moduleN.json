@@ -101,13 +101,13 @@
   "statement20": {
     "name": "statement20",
     "statement": "Locatiegegevens uitzetten",
-    "comment": true,
-    "note_a": "Op Facebook kan bijvoorbeeld de gezichtsherkenning in foto's worden uitgeschakeld."
+    "comment": false
   },
   "statement21": {
     "name": "statement21",
     "statement": "Gezichtsherkenning uitzetten",
-    "comment": false
+    "comment": true,
+    "note_a": "Op Facebook kan bijvoorbeeld de gezichtsherkenning in foto's worden uitgeschakeld."
   },
   "statement22": {
     "name": "statement22",

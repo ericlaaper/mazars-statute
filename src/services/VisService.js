@@ -122,7 +122,7 @@ export default {
   },
   getVisM(payload) {
     const token = localStorage.getItem("token");
-    return axios.post("/nVisAppStatute", payload, {
+    return axios.post("/mVisAppStatute", payload, {
       baseURL: process.env.VUE_APP_API_URL,
       headers: {
         Accept: "Application/json",

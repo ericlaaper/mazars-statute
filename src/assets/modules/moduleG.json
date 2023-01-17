@@ -280,13 +280,13 @@
   "statement50": {
     "name": "statement50",
     "statement": "Business ventures zien wij als een belangrijk hulpmiddel om het ondernemerstalent van leden van de bedrijfsfamilie te ontwikkelen.",
-    "comment": true,
-    "note_a": "Een business plan of bedrijfsplan is het schriftelijk vastleggen van een commercieel idee (product of dienst), de wijze van organiseren en de wijze uitvoering hiervan, inclusief de financiële projecties."
+    "comment": false
   },
   "statement51": {
     "name": "statement51",
     "statement": "Een business plan voor het starten van een business venture wordt beoordeeld door een externe deskundige.",
-    "comment": false
+    "comment": true,
+    "note_a": "Een business plan of bedrijfsplan is het schriftelijk vastleggen van een commercieel idee (product of dienst), de wijze van organiseren en de wijze uitvoering hiervan, inclusief de financiële projecties."
   },
   "statement52": {
     "name": "statement52",

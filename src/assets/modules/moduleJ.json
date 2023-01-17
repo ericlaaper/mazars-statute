@@ -5,42 +5,42 @@
   "statement1": {
     "name": "statement1",
     "statement": "Informatiebron en raadgever voor directie en bedrijfsfamilie.",
-    "comment": true
+    "comment": false
   },
   "statement2": {
     "name": "statement2",
     "statement": "Sparringpartner bij het opstellen en uitvoeren van het strategisch plan.",
-    "comment": true
+    "comment": false
   },
   "statement3": {
     "name": "statement3",
     "statement": "Sparringpartner bij het (verder) professionaliseren van de organisatie.",
-    "comment": true
+    "comment": false
   },
   "statement4": {
     "name": "statement4",
     "statement": "Mentor voor de volgende generatie in het familiebedrijf.",
-    "comment": true
+    "comment": false
   },
   "statement5": {
     "name": "statement5",
     "statement": "Klankbord voor de huidige algemeen directeur of directie.",
-    "comment": true
+    "comment": false
   },
   "statement6": {
     "name": "statement6",
     "statement": "Vervangend bestuurder bij een situatie van noodopvolging.",
-    "comment": true
+    "comment": false
   },
   "statement7": {
     "name": "statement7",
     "statement": "Netwerker voor het familiebedrijf binnen de branche.",
-    "comment": true
+    "comment": false
   },
   "statement8": {
     "name": "statement8",
     "statement": "Toezichthouder met (wettelijke) controlerende taken.",
-    "comment": true
+    "comment": false
   },
   "statement9": {
     "name": "statement9",
