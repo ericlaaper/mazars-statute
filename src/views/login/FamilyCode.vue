@@ -6,27 +6,27 @@
           <v-col cols="12" md="6" class="mt-2">
             <v-row no-gutters>
               <v-img
-                :src="require(`@/assets/logo_wit.svg`)"
+                :src="require(`@/assets/logo_light.png`)"
                 contain
-                max-height="200px"
+                max-height="100px"
               />
             </v-row>
             <v-row no-gutters class="justify-center align-center mt-6">
-              <h4 class="stone_1--text">Welkom bij Trusted Accountant</h4>
+              <h4 class="stone_1--text">Welkom bij Mazars</h4>
             </v-row>
-            <v-row class="justify-center mt-10">
-              <h5 class="stone_1--text">
-                Liever een ander kleurschema klik op de knop
-              </h5></v-row
-            >
-            <v-row class="justify-center mt-10">
-              <div class="text-center">
-                <v-btn class="primary mb-10" @click="toggle_dark_mode">
-                  <v-icon left>mdi-theme-light-dark</v-icon>
-                  <span>Donker/Licht</span>
-                </v-btn>
-              </div>
-            </v-row>
+            <!--            <v-row class="justify-center mt-10">-->
+            <!--              <h5 class="stone_1&#45;&#45;text">-->
+            <!--                Liever een ander kleurschema klik op de knop-->
+            <!--              </h5></v-row-->
+            <!--            >-->
+            <!--            <v-row class="justify-center mt-10">-->
+            <!--              <div class="text-center">-->
+            <!--                <v-btn class="primary mb-10" @click="toggle_dark_mode">-->
+            <!--                  <v-icon left>mdi-theme-light-dark</v-icon>-->
+            <!--                  <span>Donker/Licht</span>-->
+            <!--                </v-btn>-->
+            <!--              </div>-->
+            <!--            </v-row>-->
           </v-col>
           <v-col cols="12" md="6" class="mt-2">
             <v-row class="ml-15 mt-15 mr-15 stone_1--text">
@@ -48,14 +48,14 @@
             </v-row>
             <div class="text-end mt-5 mr-15 mb-15">
               <v-btn
-                elevation="15"
+                elevation="0"
                 class="primary"
                 v-if="errorBtn"
                 @click="login"
                 >nogmaals</v-btn
               >
               <v-btn
-                elevation="15"
+                elevation="0"
                 class="primary"
                 v-if="!errorBtn"
                 @click="login"

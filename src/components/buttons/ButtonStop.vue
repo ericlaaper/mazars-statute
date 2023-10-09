@@ -1,5 +1,5 @@
 <template>
-  <v-btn color="error" small outlined class="ml-5" @click="onClick">
+  <v-btn color="error" small outlined class="ml-5 elevation-0" @click="onClick">
     <slot>STOP</slot>
   </v-btn>
 </template>

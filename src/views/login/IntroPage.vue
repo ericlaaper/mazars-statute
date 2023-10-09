@@ -21,9 +21,9 @@
             familie {{ family.data.family_name }}.<br /><br />
 
             Mijn naam is {{ family.data.user.first_name }}
-            {{ family.data.user.last_name }} en namens Trusted Accountant
-            begeleid ik de familie {{ family.data.family_name }} bij het
-            beschrijven van het Familiestatuut.<br />
+            {{ family.data.user.last_name }} en namens Mazars begeleid ik de
+            familie {{ family.data.family_name }} bij het beschrijven van het
+            Familiestatuut.<br />
             <br />
 
             U bent uitgenodigd om aan de familiebijeenkomsten deel te nemen.
@@ -60,7 +60,7 @@
             <br />
 
             <h5>
-              TrustedAccountant
+              Mazars
               <br />
 
               {{ family.data.user.first_name }} {{ family.data.user.last_name
@@ -72,7 +72,7 @@
           <v-row class="justify-end">
             <div class="text-end mr-15">
               <v-btn
-                elevation="15"
+                elevation="0"
                 class="primary"
                 @click="start"
                 :disabled="!valid"

@@ -1,5 +1,11 @@
 <template>
-  <v-btn color="primary" small outlined class="mb-5 mr-8" @click="onClick">
+  <v-btn
+    color="primary"
+    small
+    outlined
+    class="mb-5 mr-8 elevation-0"
+    @click="onClick"
+  >
     <slot>Terug</slot>
   </v-btn>
 </template>

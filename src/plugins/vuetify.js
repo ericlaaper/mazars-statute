@@ -29,6 +29,10 @@ export default new Vuetify({
         info: "#FF0048",
         success: "#003895",
         textColor: "#000000",
+        mazars: "#818181",
+        whitmaz: "#ffffff",
+        greenmaz: "#006e65",
+        redmaz: "#704B62",
       },
       dark: {
         background: "#1867C0",

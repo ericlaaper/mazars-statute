@@ -1,18 +1,16 @@
 <template>
-  <v-app-bar app color="base_1">
-    <v-img
-      :src="require('@/assets/logo_wit.svg')"
-      max-height="50"
-      max-width="50"
-      contain
-    />
-    <h2 class="primary--text ml-3">Familiestatuut</h2>
+  <v-app-bar app color="whitemaz elevation-0">
+    <v-row class="mb-10 mt-10">
+      <v-col cols="3" class="ml-10">
+        <v-img :src="require(`@/assets/logo-tool2.png`)" />
+      </v-col>
+    </v-row>
 
     <v-spacer></v-spacer>
     <v-btn x-small outlined @click="logout">Logout</v-btn>
-    <v-btn icon @click="toggle_dark_mode">
-      <v-icon>mdi-theme-light-dark</v-icon>
-    </v-btn>
+    <!--    <v-btn icon @click="toggle_dark_mode">-->
+    <!--      <v-icon>mdi-theme-light-dark</v-icon>-->
+    <!--    </v-btn>-->
   </v-app-bar>
 </template>
 
