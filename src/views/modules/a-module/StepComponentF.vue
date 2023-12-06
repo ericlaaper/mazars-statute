@@ -10,6 +10,7 @@
       error-message="errors"
       rules="required"
       :stat="statText.statement25"
+      v-if="visData.statement_25"
     />
     <AreaValidation
       v-if="question_r === 'ke3'"
@@ -23,6 +24,7 @@
       v-if="visData.statement_26"
     />
     <RadioRegular
+      v-if="visData.statement_26"
       :label="statText.statement26.name"
       v-model="question_s"
       error-message="errors"

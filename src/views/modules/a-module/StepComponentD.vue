@@ -23,6 +23,7 @@
         error-message="errors"
         rules="required"
         :stat="statText.statement17"
+        v-if="visData.statement_17"
       />
       <AreaValidation
         v-if="question_n === 'ke5'"
@@ -53,6 +54,7 @@
       error-message="errors"
       rules="required"
       :stat="statText.statement19"
+      v-if="visData.statement_19"
     />
     <AreaValidation
       v-if="question_o === 'ke4'"
