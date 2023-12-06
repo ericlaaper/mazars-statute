@@ -9,6 +9,7 @@
       v-model="question_t"
       rules="required"
       :value="question_t"
+      v-if="visData.statement_27"
     />
     <v-divider />
     <StatementText
