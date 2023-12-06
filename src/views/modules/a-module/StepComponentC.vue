@@ -10,6 +10,7 @@
       error-message="errors"
       rules="required"
       :stat="statText.statement14"
+      v-if="visData.statement_14"
     />
     <v-divider></v-divider>
     <AreaValidation
