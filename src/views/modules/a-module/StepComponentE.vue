@@ -10,6 +10,7 @@
       error-message="errors"
       rules="required"
       :stat="statText.statement21"
+      v-if="visData.statement_21"
     />
     <AreaValidation
       v-if="question_p === 'ke4'"

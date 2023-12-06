@@ -10,6 +10,7 @@
       error-message="errors"
       rules="required"
       :stat="statText.statement11"
+      v-if="visData.statement_11"
     />
     <v-divider></v-divider>
     <StatementText
@@ -22,6 +23,7 @@
       error-message="errors"
       rules="required"
       :stat="statText.statement12"
+      v-if="visData.statement_12"
     />
     <v-divider></v-divider>
     <StatementText
@@ -34,6 +36,7 @@
       error-message="errors"
       rules="required"
       :stat="statText.statement13"
+      v-if="visData.statement_13"
     />
     <v-divider></v-divider>
   </div>
